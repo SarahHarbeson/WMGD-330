@@ -82,6 +82,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/dev\/assests\/logo.png" : {
+      "ft" : 32768,
+      "iS" : 14072,
+      "oA" : 0,
+      "oAP" : "\/dev\/assests\/logo.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/dev\/assests\/michael-descharles-rbupxkfFqSE-unsplash.jpg" : {
       "ft" : 16384,
       "iS" : 780750,
