@@ -17,12 +17,12 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
-    "\/dev\/assests\/educationDino.jpg" : {
+    "\/dev\/assests\/images\/educationDino.jpg" : {
       "ft" : 16384,
       "iS" : 407763,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/educationDino.jpg",
+      "oAP" : "\/dev\/assests\/images\/educationDino.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -30,12 +30,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/hero-1.jpg" : {
+    "\/dev\/assests\/images\/hero-1.jpg" : {
       "ft" : 16384,
       "iS" : 1205023,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/hero-1.jpg",
+      "oAP" : "\/dev\/assests\/images\/hero-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -43,12 +43,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/hero-2.jpg" : {
+    "\/dev\/assests\/images\/hero-2.jpg" : {
       "ft" : 16384,
       "iS" : 3623991,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/hero-2.jpg",
+      "oAP" : "\/dev\/assests\/images\/hero-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -56,12 +56,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/hero-3.jpg" : {
+    "\/dev\/assests\/images\/hero-3.jpg" : {
       "ft" : 16384,
       "iS" : 1220743,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/hero-3.jpg",
+      "oAP" : "\/dev\/assests\/images\/hero-3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -69,12 +69,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/hero-4.jpg" : {
+    "\/dev\/assests\/images\/hero-4.jpg" : {
       "ft" : 16384,
       "iS" : 4740151,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/hero-4.jpg",
+      "oAP" : "\/dev\/assests\/images\/hero-4.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -82,25 +82,25 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/logo.png" : {
+    "\/dev\/assests\/images\/logo.png" : {
       "ft" : 32768,
       "iS" : 14072,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/logo.png",
+      "oAP" : "\/dev\/assests\/images\/logo.png",
       "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/michael-descharles-rbupxkfFqSE-unsplash.jpg" : {
+    "\/dev\/assests\/images\/michael-descharles-rbupxkfFqSE-unsplash.jpg" : {
       "ft" : 16384,
       "iS" : 780750,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/michael-descharles-rbupxkfFqSE-unsplash.jpg",
+      "oAP" : "\/dev\/assests\/images\/michael-descharles-rbupxkfFqSE-unsplash.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -108,12 +108,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/module1.jpg" : {
+    "\/dev\/assests\/images\/module1.jpg" : {
       "ft" : 16384,
       "iS" : 5969018,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/module1.jpg",
+      "oAP" : "\/dev\/assests\/images\/module1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -121,12 +121,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/module2.jpg" : {
+    "\/dev\/assests\/images\/module2.jpg" : {
       "ft" : 16384,
       "iS" : 1207329,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/module2.jpg",
+      "oAP" : "\/dev\/assests\/images\/module2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -134,12 +134,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/module3.jpg" : {
+    "\/dev\/assests\/images\/module3.jpg" : {
       "ft" : 16384,
       "iS" : 1183193,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/module3.jpg",
+      "oAP" : "\/dev\/assests\/images\/module3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -147,12 +147,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/module4.jpg" : {
+    "\/dev\/assests\/images\/module4.jpg" : {
       "ft" : 16384,
       "iS" : 3838917,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/module4.jpg",
+      "oAP" : "\/dev\/assests\/images\/module4.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -160,12 +160,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/module5.jpg" : {
+    "\/dev\/assests\/images\/module5.jpg" : {
       "ft" : 16384,
       "iS" : 3906967,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/module5.jpg",
+      "oAP" : "\/dev\/assests\/images\/module5.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -173,12 +173,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dev\/assests\/stuffeddino.jpg" : {
+    "\/dev\/assests\/images\/stuffeddino.jpg" : {
       "ft" : 16384,
       "iS" : 1977352,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/assests\/stuffeddino.jpg",
+      "oAP" : "\/dev\/assests\/images\/stuffeddino.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
