@@ -4,12 +4,12 @@
     {
       "name" : "Process All Remaining Files and Folders",
       "stepType" : 1,
-      "uuidString" : "824E0199-9F49-4264-A75A-0862AAEDACA9"
+      "uuidString" : "FDD9CA21-CB62-4B35-9AD9-3BD056B5A3CB"
     }
   ],
   "creatorBuild" : "34335",
   "files" : {
-    "\/assignments\/hw-04\/deploy\/css\/styles.css" : {
+    "\/hw-04\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -17,89 +17,49 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/deploy\/css\/styles-min.css",
+      "oAP" : "\/hw-04\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/assignments\/hw-04\/deploy\/index.html" : {
+    "\/hw-04\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/deploy\/index.html",
+      "oAP" : "\/hw-04\/deploy\/index.html",
       "oF" : 0
     },
-    "\/assignments\/hw-04\/deploy\/js\/scripts-min.js" : {
+    "\/hw-04\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/deploy\/js\/scripts-min-min.js",
+      "oAP" : "\/hw-04\/deploy\/js\/scripts-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/assignments\/hw-04\/dev\/_author.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/_author.html",
-      "oF" : 0
-    },
-    "\/assignments\/hw-04\/dev\/_footer.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/_footer.html",
-      "oF" : 0
-    },
-    "\/assignments\/hw-04\/dev\/_header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/_header.html",
-      "oF" : 0
-    },
-    "\/assignments\/hw-04\/dev\/index.kit" : {
+    "\/hw-04\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/dev\/index.html",
+      "oAP" : "\/hw-04\/dev\/index.html",
       "oF" : 0
     },
-    "\/assignments\/hw-04\/dev\/js\/scripts.js" : {
+    "\/hw-04\/dev\/js\/scripts.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/dev\/js\/scripts-min.js",
+      "oAP" : "\/hw-04\/dev\/js\/scripts-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/assignments\/hw-04\/dev\/main-content.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/dev\/main-content.html",
-      "oF" : 0
-    },
-    "\/assignments\/hw-04\/dev\/main-content.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/main-content.html",
-      "oF" : 0
-    },
-    "\/assignments\/hw-04\/dev\/scss\/base\/_base.scss" : {
+    "\/hw-04\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -108,13 +68,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/base\/_base.css",
+      "oAP" : "\/hw-04\/dev\/scss\/base\/_base.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/base\/_normalize.scss" : {
+    "\/hw-04\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -123,13 +83,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/base\/_normalize.css",
+      "oAP" : "\/hw-04\/dev\/scss\/base\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/base\/_typography.scss" : {
+    "\/hw-04\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -138,13 +98,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/base\/_typography.css",
+      "oAP" : "\/hw-04\/dev\/scss\/base\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_author.scss" : {
+    "\/hw-04\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -153,13 +113,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_author.css",
+      "oAP" : "\/hw-04\/dev\/scss\/components\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_buttons.scss" : {
+    "\/hw-04\/dev\/scss\/components\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -168,13 +128,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_buttons.css",
+      "oAP" : "\/hw-04\/dev\/scss\/components\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_footer.scss" : {
+    "\/hw-04\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -183,13 +143,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_footer.css",
+      "oAP" : "\/hw-04\/dev\/scss\/components\/_forms.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_forms.scss" : {
+    "\/hw-04\/dev\/scss\/components\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -198,13 +158,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_forms.css",
+      "oAP" : "\/hw-04\/dev\/scss\/components\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_header.scss" : {
+    "\/hw-04\/dev\/scss\/components\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -213,13 +173,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_header.css",
+      "oAP" : "\/hw-04\/dev\/scss\/components\/_hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_hero.scss" : {
+    "\/hw-04\/dev\/scss\/components\/_main-content.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -228,13 +188,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_hero.css",
+      "oAP" : "\/hw-04\/dev\/scss\/components\/_main-content.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_main-content.scss" : {
+    "\/hw-04\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -243,13 +203,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_main-content.css",
+      "oAP" : "\/hw-04\/dev\/scss\/components\/_navigation.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_navigation.scss" : {
+    "\/hw-04\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -258,13 +218,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/hw-04\/dev\/scss\/helpers\/_mixins.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/helpers\/_mixins.scss" : {
+    "\/hw-04\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -273,28 +233,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/helpers\/_mixins.css",
+      "oAP" : "\/hw-04\/dev\/scss\/helpers\/_variables.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/helpers\/_variables.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/helpers\/_variables.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/assignments\/hw-04\/dev\/scss\/styles.scss" : {
+    "\/hw-04\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -303,211 +248,26 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/styles.css",
+      "oAP" : "\/hw-04\/dev\/scss\/styles.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/section-2.kit" : {
+    "\/hw-04\/dev\/section-1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/dev\/section-2.html",
+      "oAP" : "\/hw-04\/dev\/section-1.html",
       "oF" : 0
     },
-    "\/deploy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 0
-    },
-    "\/dev\/assests\/images\/educationDino.jpg" : {
-      "ft" : 16384,
-      "iS" : 407763,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/educationDino.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/hero-1.jpg" : {
-      "ft" : 16384,
-      "iS" : 1205023,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/hero-1.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/hero-2.jpg" : {
-      "ft" : 16384,
-      "iS" : 3623991,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/hero-2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/hero-3.jpg" : {
-      "ft" : 16384,
-      "iS" : 1220743,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/hero-3.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/hero-4.jpg" : {
-      "ft" : 16384,
-      "iS" : 4740151,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/hero-4.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/logo.png" : {
-      "ft" : 32768,
-      "iS" : 14072,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/logo.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/michael-descharles-rbupxkfFqSE-unsplash.jpg" : {
-      "ft" : 16384,
-      "iS" : 780750,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/michael-descharles-rbupxkfFqSE-unsplash.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/module1.jpg" : {
-      "ft" : 16384,
-      "iS" : 5969018,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/module1.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/module2.jpg" : {
-      "ft" : 16384,
-      "iS" : 1207329,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/module2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/module3.jpg" : {
-      "ft" : 16384,
-      "iS" : 1183193,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/module3.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/module4.jpg" : {
-      "ft" : 16384,
-      "iS" : 3838917,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/module4.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/module5.jpg" : {
-      "ft" : 16384,
-      "iS" : 3906967,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/module5.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/assests\/images\/stuffeddino.jpg" : {
-      "ft" : 16384,
-      "iS" : 1977352,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/assests\/images\/stuffeddino.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dev\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/index.html",
-      "oF" : 0
-    },
-    "\/dev\/index.kit" : {
+    "\/hw-04\/dev\/section-2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/index.html",
+      "oAP" : "\/hw-04\/dev\/section-2.html",
       "oF" : 0
     }
   },
@@ -518,12 +278,11 @@
 
   },
   "projectAttributes" : {
-    "creationDate" : 671142314.06645298,
-    "displayValue" : "WMGD-330",
+    "creationDate" : 672330601.67896605,
+    "displayValue" : "assignments",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-koamaru",
-    "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 671143343.27756202
+    "iconImageName" : "brackets-forest",
+    "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

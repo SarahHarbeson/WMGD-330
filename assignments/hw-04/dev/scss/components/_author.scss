@@ -1,0 +1,23 @@
+.author {
+    background-color: $purple; 
+    color: $white; 
+    text-align: center; 
+    padding-top: 50px;
+    padding-bottom: 50px;
+    grid-column: span 3;
+
+    @include sm {
+        background-color: $green; 
+        color: $light-grey
+    }; 
+
+    @include md {
+        background-color: $grey; 
+        text-align: right;
+    }; 
+
+    @include lg {
+        background-color: $light-grey; 
+        color: $green; 
+    }; 
+} 
