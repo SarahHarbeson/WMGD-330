@@ -9,6 +9,18 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
+    "\/assignments\/final\/deploy\/css\/styles-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/css\/styles-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/assignments\/final\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -47,6 +59,19 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/assignments\/final\/designs\/Website Redesign.png" : {
+      "ft" : 32768,
+      "iS" : 18416697,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/designs\/Website Redesign.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/assignments\/final\/dev\/index.html" : {
       "cB" : 0,
@@ -296,131 +321,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/assignments\/final\/dev\/section-2.html",
-      "oF" : 0
-    },
-    "\/assignments\/final\/iconified\/apple-touch-icon-57x57.png" : {
-      "ft" : 32768,
-      "iS" : 1845,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/iconified\/apple-touch-icon-57x57.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assignments\/final\/iconified\/apple-touch-icon-72x72.png" : {
-      "ft" : 32768,
-      "iS" : 2678,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/iconified\/apple-touch-icon-72x72.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assignments\/final\/iconified\/apple-touch-icon-76x76.png" : {
-      "ft" : 32768,
-      "iS" : 2898,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/iconified\/apple-touch-icon-76x76.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assignments\/final\/iconified\/apple-touch-icon-114x114.png" : {
-      "ft" : 32768,
-      "iS" : 5887,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/iconified\/apple-touch-icon-114x114.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assignments\/final\/iconified\/apple-touch-icon-120x120.png" : {
-      "ft" : 32768,
-      "iS" : 3164,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/iconified\/apple-touch-icon-120x120.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assignments\/final\/iconified\/apple-touch-icon-144x144.png" : {
-      "ft" : 32768,
-      "iS" : 7791,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/iconified\/apple-touch-icon-144x144.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assignments\/final\/iconified\/apple-touch-icon-152x152.png" : {
-      "ft" : 32768,
-      "iS" : 9836,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/iconified\/apple-touch-icon-152x152.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assignments\/final\/iconified\/apple-touch-icon-180x180.png" : {
-      "ft" : 32768,
-      "iS" : 7774,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/iconified\/apple-touch-icon-180x180.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assignments\/final\/iconified\/apple-touch-icon.png" : {
-      "ft" : 32768,
-      "iS" : 1845,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/iconified\/apple-touch-icon.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assignments\/final\/iconified\/iconifier-readme.txt" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/iconified\/iconifier-readme.txt",
       "oF" : 0
     },
     "\/assignments\/hw-04\/deploy\/css\/styles.css" : {
@@ -729,182 +629,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/assignments\/hw-04\/dev\/section-2.html",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/Montserrat-Italic-VariableFont_wght.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/Montserrat-Italic-VariableFont_wght.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/Montserrat-VariableFont_wght.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/Montserrat-VariableFont_wght.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/OFL.txt" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/OFL.txt",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/README.txt" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/README.txt",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-Black.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-Black.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-BlackItalic.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-BlackItalic.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-Bold.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-Bold.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-BoldItalic.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-BoldItalic.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-ExtraBold.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-ExtraBold.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-ExtraBoldItalic.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-ExtraBoldItalic.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-ExtraLight.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-ExtraLight.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-ExtraLightItalic.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-ExtraLightItalic.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-Italic.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-Italic.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-Light.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-Light.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-LightItalic.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-LightItalic.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-Medium.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-Medium.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-MediumItalic.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-MediumItalic.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-Regular.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-Regular.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-SemiBold.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-SemiBold.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-SemiBoldItalic.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-SemiBoldItalic.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-Thin.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-Thin.ttf",
-      "oF" : 0
-    },
-    "\/assignments\/Montserrat (1)\/static\/Montserrat-ThinItalic.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/Montserrat (1)\/static\/Montserrat-ThinItalic.ttf",
       "oF" : 0
     },
     "\/assignments\/w-06-01-fonts\/deploy\/css\/styles.css" : {
@@ -1661,7 +1385,7 @@
     "creationDate" : 671142314.06645298,
     "displayValue" : "WMGD-330",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "\/assignments\/final\/iconified\/apple-touch-icon-120x120.png",
+    "iconImageName" : "meme-ive",
     "iconImageWasSetByUser" : 0,
     "lastBuiltDate" : 671143343.27756202
   },
