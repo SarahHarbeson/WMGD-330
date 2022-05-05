@@ -21,6 +21,14 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/assignments\/final\/deploy\/img\/s.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/s.ico",
+      "oF" : 0
+    },
     "\/assignments\/final\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -39,14 +47,6 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/assignments\/final\/dev\/images\/favicon.ico" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/dev\/images\/favicon.ico",
-      "oF" : 0
     },
     "\/assignments\/final\/dev\/index.html" : {
       "cB" : 0,
