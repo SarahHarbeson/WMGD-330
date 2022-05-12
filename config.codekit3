@@ -9,18 +9,6 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
-    "\/assignments\/final\/deploy\/css\/styles-min.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/deploy\/css\/styles-min-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/assignments\/final\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -33,13 +21,239 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/assignments\/final\/deploy\/img\/s.ico" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/assignments\/final\/deploy\/img\/article-1.png" : {
+      "ft" : 32768,
+      "iS" : 121800,
       "oA" : 0,
-      "oAP" : "\/assignments\/final\/deploy\/img\/s.ico",
-      "oF" : 0
+      "oAP" : "\/assignments\/final\/deploy\/img\/article-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/article-2.png" : {
+      "ft" : 32768,
+      "iS" : 120294,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/article-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/article-3.png" : {
+      "ft" : 32768,
+      "iS" : 132948,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/article-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/article-4.png" : {
+      "ft" : 32768,
+      "iS" : 121807,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/article-4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/article-5.png" : {
+      "ft" : 32768,
+      "iS" : 93157,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/article-5.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/collage-1.png" : {
+      "ft" : 32768,
+      "iS" : 795700,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/collage-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/collage-2.png" : {
+      "ft" : 32768,
+      "iS" : 289010,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/collage-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/collage-3.png" : {
+      "ft" : 32768,
+      "iS" : 253033,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/collage-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/cta-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 12600,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/cta-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/cta-2.png" : {
+      "ft" : 32768,
+      "iS" : 22993,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/cta-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 1349544,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/icon-arrow.png" : {
+      "ft" : 32768,
+      "iS" : 507,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/icon-arrow.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/icon-phone.png" : {
+      "ft" : 32768,
+      "iS" : 297,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/icon-phone.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/logo.jpg" : {
+      "ft" : 16384,
+      "iS" : 11810,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/logo.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/social-1.png" : {
+      "ft" : 32768,
+      "iS" : 376,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/social-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/social-2.png" : {
+      "ft" : 32768,
+      "iS" : 417,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/social-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/social-3.png" : {
+      "ft" : 32768,
+      "iS" : 503,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/social-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assignments\/final\/deploy\/img\/social-4.png" : {
+      "ft" : 32768,
+      "iS" : 346,
+      "oA" : 0,
+      "oAP" : "\/assignments\/final\/deploy\/img\/social-4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/assignments\/final\/deploy\/index.html" : {
       "cB" : 0,
@@ -59,27 +273,6 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/assignments\/final\/designs\/Website Redesign.png" : {
-      "ft" : 32768,
-      "iS" : 18416697,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/designs\/Website Redesign.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assignments\/final\/dev\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/dev\/index.html",
-      "oF" : 0
     },
     "\/assignments\/final\/dev\/index.kit" : {
       "cB" : 0,
@@ -280,18 +473,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/final\/dev\/scss\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/dev\/scss\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/assignments\/final\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -307,23 +488,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/final\/dev\/section-1.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/dev\/section-1.html",
-      "oF" : 0
-    },
-    "\/assignments\/final\/dev\/section-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assignments\/final\/dev\/section-2.html",
-      "oF" : 0
-    },
-    "\/assignments\/hw-04\/deploy\/css\/styles.css" : {
+    "\/assignments\/hw\/hw-04\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -331,89 +496,89 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/deploy\/css\/styles-min.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/assignments\/hw-04\/deploy\/index.html" : {
+    "\/assignments\/hw\/hw-04\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/deploy\/index.html",
+      "oAP" : "\/assignments\/hw\/hw-04\/deploy\/index.html",
       "oF" : 0
     },
-    "\/assignments\/hw-04\/deploy\/js\/scripts-min.js" : {
+    "\/assignments\/hw\/hw-04\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/deploy\/js\/scripts-min-min.js",
+      "oAP" : "\/assignments\/hw\/hw-04\/deploy\/js\/scripts-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/assignments\/hw-04\/dev\/_author.kit" : {
+    "\/assignments\/hw\/hw-04\/dev\/_author.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/_author.html",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/_author.html",
       "oF" : 0
     },
-    "\/assignments\/hw-04\/dev\/_footer.kit" : {
+    "\/assignments\/hw\/hw-04\/dev\/_footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/_footer.html",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/_footer.html",
       "oF" : 0
     },
-    "\/assignments\/hw-04\/dev\/_header.kit" : {
+    "\/assignments\/hw\/hw-04\/dev\/_header.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/_header.html",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/_header.html",
       "oF" : 0
     },
-    "\/assignments\/hw-04\/dev\/index.kit" : {
+    "\/assignments\/hw\/hw-04\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/dev\/index.html",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/index.html",
       "oF" : 0
     },
-    "\/assignments\/hw-04\/dev\/js\/scripts.js" : {
+    "\/assignments\/hw\/hw-04\/dev\/js\/scripts.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/dev\/js\/scripts-min.js",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/js\/scripts-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/assignments\/hw-04\/dev\/main-content.html" : {
+    "\/assignments\/hw\/hw-04\/dev\/main-content.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/dev\/main-content.html",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/main-content.html",
       "oF" : 0
     },
-    "\/assignments\/hw-04\/dev\/main-content.kit" : {
+    "\/assignments\/hw\/hw-04\/dev\/main-content.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/main-content.html",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/main-content.html",
       "oF" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/base\/_base.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -422,13 +587,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/base\/_base.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/base\/_base.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/base\/_normalize.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -437,13 +602,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/base\/_normalize.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/base\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/base\/_typography.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -452,13 +617,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/base\/_typography.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/base\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_author.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_author.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -467,13 +632,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_author.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_author.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_buttons.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -482,13 +647,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_buttons.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_footer.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -497,13 +662,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_footer.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_forms.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -512,13 +677,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_forms.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_forms.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_header.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -527,13 +692,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_header.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_hero.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -542,13 +707,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_hero.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_main-content.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_main-content.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -557,13 +722,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_main-content.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_main-content.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/components\/_navigation.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -572,13 +737,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/components\/_navigation.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/helpers\/_mixins.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -587,13 +752,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/helpers\/_mixins.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/helpers\/_mixins.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/helpers\/_variables.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -602,13 +767,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/helpers\/_variables.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/helpers\/_variables.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/scss\/styles.scss" : {
+    "\/assignments\/hw\/hw-04\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -617,21 +782,21 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/dev\/scss\/styles.css",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/scss\/styles.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/hw-04\/dev\/section-2.kit" : {
+    "\/assignments\/hw\/hw-04\/dev\/section-2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/hw-04\/dev\/section-2.html",
+      "oAP" : "\/assignments\/hw\/hw-04\/dev\/section-2.html",
       "oF" : 0
     },
-    "\/assignments\/w-06-01-fonts\/deploy\/css\/styles.css" : {
+    "\/assignments\/hw\/w-06-01-fonts\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -639,65 +804,65 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/deploy\/css\/styles-min.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/assignments\/w-06-01-fonts\/deploy\/img\/favicon.ico" : {
+    "\/assignments\/hw\/w-06-01-fonts\/deploy\/img\/favicon.ico" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/deploy\/img\/favicon.ico",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/deploy\/img\/favicon.ico",
       "oF" : 0
     },
-    "\/assignments\/w-06-01-fonts\/deploy\/index.html" : {
+    "\/assignments\/hw\/w-06-01-fonts\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/deploy\/index.html",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/deploy\/index.html",
       "oF" : 0
     },
-    "\/assignments\/w-06-01-fonts\/deploy\/js\/scripts-min.js" : {
+    "\/assignments\/hw\/w-06-01-fonts\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/deploy\/js\/scripts-min-min.js",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/deploy\/js\/scripts-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/index.html" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/index.html",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/index.html",
       "oF" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/index.kit" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/index.html",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/index.html",
       "oF" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/js\/scripts.js" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/js\/scripts.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/js\/scripts-min.js",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/js\/scripts-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/base\/_base.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -706,13 +871,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/base\/_base.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/base\/_base.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/base\/_normalize.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -721,13 +886,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/base\/_normalize.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/base\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/base\/_typography.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -736,13 +901,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/base\/_typography.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/base\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_buttons.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -751,13 +916,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_buttons.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_footer.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -766,13 +931,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_footer.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_forms.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -781,13 +946,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_forms.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_forms.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_header.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -796,13 +961,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_header.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_hero.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -811,13 +976,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_hero.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_main-content.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_main-content.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -826,13 +991,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_main-content.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_main-content.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_navigation.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -841,13 +1006,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/components\/_navigation.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/helpers\/_mixins.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -856,13 +1021,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/helpers\/_mixins.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/helpers\/_mixins.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/helpers\/_variables.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -871,13 +1036,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/helpers\/_variables.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/helpers\/_variables.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/styles.css" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -885,11 +1050,11 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/styles-min.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/styles-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/scss\/styles.scss" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -898,29 +1063,29 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/scss\/styles.css",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/scss\/styles.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/section-1.kit" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/section-1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/section-1.html",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/section-1.html",
       "oF" : 0
     },
-    "\/assignments\/w-06-01-fonts\/dev\/section-2.kit" : {
+    "\/assignments\/hw\/w-06-01-fonts\/dev\/section-2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-01-fonts\/dev\/section-2.html",
+      "oAP" : "\/assignments\/hw\/w-06-01-fonts\/dev\/section-2.html",
       "oF" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/deploy\/css\/styles.css" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -928,49 +1093,49 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/deploy\/css\/styles-min.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/deploy\/index.html" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/deploy\/index.html",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/deploy\/index.html",
       "oF" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/deploy\/js\/scripts-min.js" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/deploy\/js\/scripts-min-min.js",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/deploy\/js\/scripts-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/index.kit" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/index.html",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/index.html",
       "oF" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/js\/scripts.js" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/js\/scripts.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/js\/scripts-min.js",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/js\/scripts-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/base\/_base.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -979,13 +1144,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/base\/_base.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/base\/_base.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/base\/_normalize.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -994,13 +1159,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/base\/_normalize.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/base\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/base\/_typography.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1009,13 +1174,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/base\/_typography.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/base\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_buttons.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1024,13 +1189,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_buttons.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_footer.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1039,13 +1204,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_footer.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_forms.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1054,13 +1219,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_forms.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_forms.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_header.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1069,13 +1234,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_header.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_hero.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1084,13 +1249,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_hero.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_main-content.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_main-content.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1099,13 +1264,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_main-content.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_main-content.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_navigation.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1114,13 +1279,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/components\/_navigation.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/helpers\/_mixins.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1129,13 +1294,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/helpers\/_mixins.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/helpers\/_mixins.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/helpers\/_variables.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1144,13 +1309,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/helpers\/_variables.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/helpers\/_variables.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/scss\/styles.scss" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1159,26 +1324,26 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/scss\/styles.css",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/scss\/styles.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/section-1.kit" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/section-1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/section-1.html",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/section-1.html",
       "oF" : 0
     },
-    "\/assignments\/w-06-02-flexbox\/dev\/section-2.kit" : {
+    "\/assignments\/hw\/w-06-02-flexbox\/dev\/section-2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assignments\/w-06-02-flexbox\/dev\/section-2.html",
+      "oAP" : "\/assignments\/hw\/w-06-02-flexbox\/dev\/section-2.html",
       "oF" : 0
     },
     "\/deploy\/index.html" : {
