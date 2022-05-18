@@ -1,14 +1,54 @@
 .header {
-	background: $gray;
-	padding: 16px;
+	background: $sunglow;
+	padding: 11px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 }
-.header__logo {
-	width: 96px;
-	@include md {
-		width: 150px;
+.header__logoicon { 
+width: 26.5px;
+height: 30.76px;
+padding-left: 13px;
+padding-top: 11px;
+padding-bottom: 10.24;
+	@include lg {
+		width: 30px;
+		height: 34px;
+	}
+}
+
+.header_logo { 
+width: 109px;
+height: 18px;
+padding-left: 48px;
+padding-top: 17px;
+	@include lg { 
+		width: 169px;
+		height: 28px;
+		padding-left: 54px;
+		padding-top: 16px;
+	}
+} 
+
+.header_shopping {
+	width: 24px;
+	height: 24px;
+	padding-left: 356px;
+	padding-top: 15px;
+	@include lg { 
+		width: 24px;
+		height: 24px;
+		padding-left: 1237px;
+		padding-top: 18px;
+	}
+}
+
+.header_contact {
+@include lg {
+	width: 24px;
+	height: 24px;
+	padding-left: 388px;
+	padding-top: 14px;
 	}
 }
 

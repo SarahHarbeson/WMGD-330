@@ -346,6 +346,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/Hamburger.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Hamburger.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/img\/handlebars.jpg" : {
       "ft" : 16384,
       "iS" : 4250555,
@@ -410,6 +420,29 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/img\/logoicon.png" : {
+      "ft" : 32768,
+      "iS" : 507,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/logoicon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Mail.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Mail.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/deploy\/img\/ModernShop.jpg" : {
       "ft" : 16384,
@@ -574,6 +607,16 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/img\/shoppingcart.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/shoppingcart.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/deploy\/img\/teamdream.jpg" : {
       "ft" : 16384,
@@ -919,20 +962,36 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/header.html" : {
+    "\/dev\/components\/header.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/header.html",
+      "oAP" : "\/dev\/components\/header.html",
       "oF" : 0
     },
-    "\/dev\/header.kit" : {
+    "\/dev\/components\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/header.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/hero.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/header.html",
+      "oAP" : "\/dev\/components\/hero.html",
       "oF" : 0
     },
     "\/dev\/img\/s.ico" : {
