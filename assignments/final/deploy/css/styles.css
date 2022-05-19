@@ -309,52 +309,5 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   align-items: center; }
 
-.header__logoicon {
-  width: 26.5px;
-  height: 30.76px;
-  padding-left: 13px;
-  padding-top: 11px;
-  padding-bottom: 10.24; }
-  @media (min-width: 992px) {
-    .header__logoicon {
-      width: 30px;
-      height: 34px; } }
-.header_logo {
-  width: 109px;
-  height: 18px;
-  padding-left: 48px;
-  padding-top: 17px; }
-  @media (min-width: 992px) {
-    .header_logo {
-      width: 169px;
-      height: 28px;
-      padding-left: 54px;
-      padding-top: 16px; } }
-.header_shopping {
-  width: 24px;
-  height: 24px;
-  padding-left: 356px;
-  padding-top: 15px; }
-  @media (min-width: 992px) {
-    .header_shopping {
-      width: 24px;
-      height: 24px;
-      padding-left: 1237px;
-      padding-top: 18px; } }
-@media (min-width: 992px) {
-  .header_contact {
-    width: 24px;
-    height: 24px;
-    padding-left: 388px;
-    padding-top: 14px; } }
-
-.header__link {
-  color: #FFFFFF;
-  margin-left: 20px;
-  text-decoration: none;
-  font-size: 12px; }
-  .header__link:hover {
-    opacity: 0.5; }
-  @media (min-width: 768px) {
-    .header__link {
-      font-size: 16px; } }
+.header_logoicon {
+  margin-right: 10px; }

@@ -1,17 +1,18 @@
-.hero {
-	background-image: url('../img/product.png');
-	background-position: center;
+._hero {
+	background-image: url('../img/products.png');
+	background-position: right;
 	background-size: cover;
-	height: 262px;
+	background-color: gray; 
+	height: 427px;
 	display: flex;
-	text-align: center;
-	align-items: center;
-	justify-content: center;
+	justify-content: flex-end; 
 	@include md {
-		height: 515px;
+		width: 409px;
+		height: 353px;
 	}
 	@include lg {
-		height: 686px;
+		width: 740px;
+		height: 333px;
 	}
 }
 
@@ -27,7 +28,7 @@
 	}
 }
 .hero__button {
-	color: $white;
+	color: $sunglow;
 	display: inline-block;
 	margin-top: 5px;
 	text-decoration: none;
