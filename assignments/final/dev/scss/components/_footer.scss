@@ -1,13 +1,16 @@
 
 .footer {
-	background-color: $teal;
+	//background-color: $teal;
 	color: $white;
-	padding: 64px 100px;
+	//padding: 36px 83px;
 }
 
-.footer__contact-row {
+.footer__content {
 	display: flex;
+	flex-direction: row;  
+	background-color: $teal; 
 	align-items: center;
+	text-align: right; 
 	margin-top: 5px;
 	margin-bottom: 10px;
 }
@@ -18,19 +21,11 @@
 	margin-right: 20px;
 }
 
-.footer__contact-body-text {
-	margin-bottom: 0;
-	color: #C8C7BC;
-	font-weight: 400;
-	font-size: 12px;
-	line-height: 16px;
-	margin-top: 0;
-}
 .footer__subheading {
 	font-weight: 600;
 	font-size: 16px;
 	line-height: 22px;
-	color: #E0DFD5;
+	color: $white;
 }
 .footer__header {
 	margin-bottom: 16px;
@@ -38,35 +33,54 @@
 	font-weight: 600;
 	font-size: 20px;
 	line-height: 27px;
-	color: #E0DFD5;
+	color: $white;
 }
 
-.footer__contact-block {
-	padding-bottom: 16px;
-	padding-top: 16px;
-	border-bottom: 1px solid #979797;
+.footer__contact-block1 {
+	padding: 36px 83px; 
+	background-color: $teal-two; 
+	justify-content: space-around; 
+	text-align: right; 
+}
+
+.footer__contact-block2 {
+	padding: 36px 83px; 
+	background-color: $teal-two; 
+	justify-content: space-around; 
+	text-align: left; 
 }
 
 .footer__header-middle {
 	text-align: center;
 }
+
+.footer-email {
+	text-align: center; 
+	align-items: center; 
+}
+
 .footer-column-2__input {
-	width: 100%;
-	margin-bottom: 16px;
-	background: #ADB5BD;
-	padding: 15px 11px;
+	width: 43%;
+	font-size: 10 px; 
+	margin-bottom: 11px;
+	background: $white;
+	border: 16px solid $teal-two; 
+	border-radius: 6px; 
+	padding: 11px;
 }
 
 .footer-column-2__submit {
 	text-align: right;
 }
 .footer-column-2__button {
-	background-color: $dark-teal;
-	font-size: 14px;
-	line-height: 19px;
+	background-color: $sunglow;
+	font-size: 10px;
+	line-height: 17px;
 	outline: 0;
 	padding: 4px 10px;
 	border: 0;
+	border-radius: 6px; 
+	text-align: center; 
 }
 
 .social-icon {
@@ -82,4 +96,33 @@
 .footer__content {
 	display: flex;
 	justify-content: space-between;
+}
+
+.footer__social__Media {
+	margin-right: 23; 
+}
+
+.fb__icon {
+	max-height: 26px;
+	max-width: 26px; 
+}
+
+.t__icon {
+	max-height: 26px;
+	max-width: 26px; 
+}
+
+.insta__icon {
+	max-height: 26px;
+	max-width: 26px; 
+}
+
+.ch__icon {
+	max-height: 26px;
+	max-width: 26px; 
+}
+
+.footer-bottom { 
+	background-color: $sunglow; 
+	line-height: 22px; 
 }
