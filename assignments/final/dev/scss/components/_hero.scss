@@ -2,7 +2,7 @@
 	background-image: url('../img/products.png');
 	background-position: right;
 	background-size: cover;
-	background-color: gray; 
+	background-color: $journal; 
 	height: 427px;
 	display: flex;
 	justify-content: flex-end; 
@@ -32,6 +32,6 @@
 	display: inline-block;
 	margin-top: 5px;
 	text-decoration: none;
-	background-color: $gray;
+	background-color: $journal;
 	padding: 10px 15px;
 }
