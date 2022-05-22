@@ -122,7 +122,13 @@
 	text-align: center; 
 	border: 2px solid $teal-two;
 	border-radius: 0px; 
+}
 
+.footer_image{
+	display: flex; 
+	align-content: center; 
+	width: 20px; 
+	height: 60px; 
 }
 
 .footer__need-help {

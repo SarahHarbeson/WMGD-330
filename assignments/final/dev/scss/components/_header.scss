@@ -4,26 +4,77 @@
 	display: flex;
 	justify-content: space-between;  
 	align-items: center;
+	flex-direction: row; 
+	flex-wrap: wrap; 
+	width: 100%; 
+	height: 52px; 
+	@include lg{
+		height: 55px; 
+	}
 }
 
 .header_logoicon {
 	margin-right: 10px; 
 }
 
-//.header__logo { 
+.header__icons{
+	display: flex; 
+	align-items: center; 
+}
 
-		//width: 109px;
-		//height: 18px;
-		//margin: auto; 
-		//align-items: center; 
-		//justify-content: center; 
+.header_logos{
+	display: flex; 
+	align-items: center; 
+	justify-content: center; 
+}
 
-		//@include md {
-			//width: 122px;
-			//height: 20px;
-		//}
-		//@include lg {
-			//width: 169px;
-			//height: 28px;
-		//}
-//} 
+.header_logoicon{
+	width: 27px; 
+	height: 31px; 
+	@include lg{
+		width: 30px; 
+		height: 34px; 
+	}
+}
+
+.header_logo{
+	width: 109px; 
+	height: 18px; 
+	@include lg{
+		width: 169px; 
+		height: 28px; 
+	}
+}
+
+.header__contact{
+	display: none; 
+	@include lg {
+		display: block; 
+		padding-left: 10px; 
+	}
+}
+
+.header__menu {
+	display: block; 
+	@include lg {
+		display: none; 
+	}
+}
+
+
+.header__words {
+	display: none; 
+	@include lg {
+		display: flex; 
+		background-color: $sunglow; 
+		line-height: 20px; 
+		font-size: 18px;
+		flex-basis: 100%; 
+	}
+}
+
+.header__link {
+	text-decoration: none; 
+	color: black; 
+	padding-right: 20px; 
+}
