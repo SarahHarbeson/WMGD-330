@@ -15,43 +15,52 @@
 	flex-direction: column; 
 	flex-basis: 100%; 
 	flex: 1; 
-	padding-left: 50px; 
+	padding: 50px; 
+	text-align: right; 
 }
 
 .footer__subheading{
-	display: flex; 
-	align-content: right; 
-	align-items: right; 
+	padding-bottom: 8px; 
 }
 
-//.social_media{
-//	display: flex; 
-//	justify-content: space-between;
-//	align-items: right; 
-//}
+.footer__contact-row {
+	display: flex;
+	justify-content: end; 
+}
+
+.social_media{
+	display: flex; 
+	flex-direction: row; 
+	flex-wrap: wrap; 
+	//width: 170px;  
+}
 
 .fb__icon {
+	display: flex; 
+	flex-direction: column; 
+	flex-basis: 100%; 
+	flex: 1; 
 	max-height: 26px;
 	max-width: 26px;  
-
+	margin: 0 8px; 
 }
 
 .t__icon {
-	max-height: 26px;
-	max-width: 26px; 
- 
+	display: flex; 
+	max-height: 26px; 
+	margin: 0 8px; 
 }
 
 .insta__icon {
+	display: flex; 
 	max-height: 26px;
-	max-width: 26px; 
-
+	margin: 0 8px; 
 }
 
 .ch__icon {
-	max-height: 26px;
-	max-width: 26px; 
-
+	display: flex; 
+	max-height: 26px; 
+	margin-left: 8px; 
 }
 
 .footer__content {
@@ -81,13 +90,12 @@
 }
 
 .footer-column-2__input {
-	width: 43%;
 	font-size: 10 px; 
 	margin-bottom: 11px;
 	background: $white;
 	border: 10px solid $teal-two; 
 	border-radius: 6px; 
-	padding: 11px;
+	padding: 11px
 }
 
 .footer__icon {
@@ -118,6 +126,8 @@
 	text-align: left; 
 	height: 281px; 
 	flex: 1; 
+	padding: 50px; 
+
 }
 
 .footer-email {
@@ -157,9 +167,12 @@
 .footer-bottom { 
 	display: flex; 
 	background-color: $sunglow; 
-	line-height: 22px; 
+	line-height: 17px; 
+	font-size: 10px; 
 	flex-basis: 100%; 
 	align-items: center; 
-	justify-content: center; 
+	justify-content: space-between; 
+	padding-left: 300px; 
+	padding-right: 300px; 
 	flex: 1; 
 }

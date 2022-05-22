@@ -358,28 +358,44 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: column;
   flex-basis: 100%;
   flex: 1;
-  padding-left: 50px; }
+  padding: 50px;
+  text-align: right; }
 
 .footer__subheading {
+  padding-bottom: 8px; }
+
+.footer__contact-row {
   display: flex;
-  align-content: right;
-  align-items: right; }
+  justify-content: end; }
+
+.social_media {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; }
 
 .fb__icon {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
   max-height: 26px;
-  max-width: 26px; }
+  max-width: 26px;
+  margin: 0 8px; }
 
 .t__icon {
+  display: flex;
   max-height: 26px;
-  max-width: 26px; }
+  margin: 0 8px; }
 
 .insta__icon {
+  display: flex;
   max-height: 26px;
-  max-width: 26px; }
+  margin: 0 8px; }
 
 .ch__icon {
+  display: flex;
   max-height: 26px;
-  max-width: 26px; }
+  margin-left: 8px; }
 
 .footer__content {
   background-color: #50BCD2;
@@ -398,7 +414,6 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 5px; }
 
 .footer-column-2__input {
-  width: 43%;
   font-size: 10 px;
   margin-bottom: 11px;
   background: #FFFFFF;
@@ -429,7 +444,8 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #4296B5;
   text-align: left;
   height: 281px;
-  flex: 1; }
+  flex: 1;
+  padding: 50px; }
 
 .footer-email {
   text-align: center;
@@ -461,8 +477,11 @@ h1, h2, h3, h4, h5, h6 {
 .footer-bottom {
   display: flex;
   background-color: #FDC430;
-  line-height: 22px;
+  line-height: 17px;
+  font-size: 10px;
   flex-basis: 100%;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  padding-left: 300px;
+  padding-right: 300px;
   flex: 1; }
