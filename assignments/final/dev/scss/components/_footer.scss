@@ -2,21 +2,52 @@
 .footer {
 	color: $white;
 	display: flex; 
+	flex-direction: column; 
+	flex-wrap: wrap; 
+	width: 100%; 
+
+	@include lg{
+	color: $white;
+	display: flex; 
 	flex-direction: row; 
 	flex-wrap: wrap; 
-	width: 100%
-	//padding: 36px 83px;
+	width: 100%; 
+	}
 }
 
 
 .footer__contact-block1 {
+	background-color: $darkest-teal; 
+	display: flex; 
+	flex-direction: column; 
+	flex-basis: 100%;
+	width: 40%; 
+	flex: 1; 
+	order: 3; 
+	padding: 50px; 
+	text-align: right; 
+
+	@include md{
+		background-color: $darkest-teal; 
+		display: flex; 
+		flex-direction: column; 
+		flex-basis: 100%; 
+		flex: 1; 
+		order: 3; 
+		padding: 50px; 
+		text-align: right; 
+	}
+
+	@include lg{
 	background-color: $teal-two; 
 	display: flex; 
 	flex-direction: column; 
 	flex-basis: 100%; 
 	flex: 1; 
+	order: 1; 
 	padding: 50px; 
 	text-align: right; 
+	}
 }
 
 .footer__contact-row {
@@ -26,13 +57,24 @@
 
 .social_media{
 	display: flex; 
-	flex-direction: row; 
+	flex-direction: column; 
 	flex-wrap: wrap; 
 	//width: 170px;  
-	padding-top: 16px; 
+	padding-top: 32px; 
+
+	@include lg{
+		display: flex; 
+		flex-direction: row; 
+		flex-wrap: wrap; 
+		//width: 170px;  
+		padding-top: 16px; 
+	}
 }
 
 .fb__icon {
+	display: none; 
+
+	@include lg{
 	display: flex; 
 	flex-direction: column; 
 	flex-basis: 100%; 
@@ -40,24 +82,111 @@
 	max-height: 26px;
 	max-width: 26px;  
 	margin: 0 8px; 
+	}
 }
 
 .t__icon {
+	display: none; 
+
+	@include lg{
 	display: flex; 
 	max-height: 26px; 
 	margin: 0 8px; 
+	}
 }
 
 .insta__icon {
+	display: none; 
+
+	@include lg{
 	display: flex; 
 	max-height: 26px;
 	margin: 0 8px; 
+	}
 }
 
 .ch__icon {
+	display: none; 
+
+	@include lg{
 	display: flex; 
 	max-height: 26px; 
 	margin-left: 8px; 
+	}
+}
+
+.fb__iconlight {
+	@include sm{
+	display: flex; 
+	flex-direction: column; 
+	max-height: 26px; 
+	margin: 8px; 
+	}
+
+	@include md{
+		display: flex; 
+		flex-direction: column;  
+		max-height: 26px; 
+		margin: 8px; 
+	}
+
+	@include lg{
+		display: none; 
+	}
+}
+
+.t__iconlight {
+	@include sm{
+	display: flex; 
+	max-height: 26px; 
+	margin: 8px; 
+	}
+
+	@include md{
+		display: flex; 
+		max-height: 26px; 
+		margin: 8px; 
+	}
+
+	@include lg{
+		display: none; 
+	}
+}
+
+.insta__iconlight {
+	@include sm{
+	display: flex; 
+	max-height: 26px;
+	margin: 8px; 
+	}
+
+	@include md{
+		display: flex; 
+		max-height: 26px;
+		margin: 8px; 
+	}
+
+	@include lg{
+		display: none; 
+	}
+}
+
+.ch__iconlight {
+	@include sm{
+	display: flex; 
+	max-height: 26px; 
+	margin-left: 8px; 
+	}
+
+	@include md{
+		display: flex; 
+		max-height: 26px; 
+		margin-left: 8px; 
+	}
+
+	@include lg{
+		display: none; 
+	}
 }
 
 
@@ -75,15 +204,50 @@
 	background-color: $teal; 
 	height: 281px; 
 	align-items: center;
+	text-align: center;  
+	align-self: stretch; 
+	display: flex; 
+	flex-direction: row; 
+	flex-basis: 100%;
+	width: 60%;
+	flex: 1;
+	order: 1; 
+
+
+	@include md{
+		background-color: $teal; 
+		height: 281px; 
+		align-items: center;
+		text-align: center;  
+		display: flex; 
+		flex-direction: row; 
+		flex-basis: 100%;
+		order: 1; 
+		flex: 1;
+	}
+
+	@include lg{
+	background-color: $teal; 
+	height: 283px; 
+	align-items: center;
 	text-align: center; 
 	flex: 1; 
+	order: 2; 
+	}
 }
 
 .footer__contact-content {
 	text-align: center;
+	padding-left: 100px; 
+	padding-right: px; 
+	padding-bottom: 5px; 
+
+	@include lg{
+	text-align: center;
 	padding-left: 50px; 
 	padding-right: 50px; 
 	padding-bottom: 5px; 
+	}
 
 }
 
@@ -92,25 +256,54 @@
 	display: flex; 
 	justify-content: center; 
 	text-align: center; 
+	border: 5px solid $teal-two;
+	border-radius: 5px; 
+
+	@include lg{
+	display: flex; 
+	justify-content: center; 
+	text-align: center; 
 	border: 7px solid $teal-two;
 	border-radius: 5px; 
+	}
 }
 
 .footer-column-2__input {
+	font-size: 10px; 
+	background: $white;
+	padding: 11px; 
+	width: 80%; 
+	height: 20px;
+	padding-right: 10px; 
+	border-radius: 0px; 
+
+	@include lg{
 	font-size: 14px; 
 	background: $white;
-	border-radius: 6px; 
 	padding: 11px; 
 	width: 200px; 
 	height: 30px;
-	padding-right: 10px; 
+	border-radius: 0px; 
 	//margin-right: 10px; 
 	//border: 10px solid $teal-two;
-	border-radius: 0px; 
+	}
 }
 
 
 .footer-column-2__button {
+	background-color: $sunglow;
+	font-size: 10px;
+	//line-height: 17px;
+	outline: 0;
+	border-radius: 5px; 
+	padding-left: 10px; 
+	padding-right: 10px; 
+	height: 26px; 
+	text-align: center; 
+	border: 2px solid $teal-two;
+	border-radius: 0px; 
+
+	@include lg{
 	background-color: $sunglow;
 	font-size: 14px;
 	//line-height: 17px;
@@ -121,40 +314,86 @@
 	height: 30px; 
 	text-align: center; 
 	border: 2px solid $teal-two;
-	border-radius: 0px; 
+	border-radius: 0px;
+	} 
 }
 
 .footer_image{
 	display: flex; 
 	align-content: center; 
+
 	width: 20px; 
 	height: 60px; 
 }
 
 .footer__need-help {
+	background-color: $teal-two; 
+	background-position: right; 
+	text-align: left; 
+	height: 283px; 
+	flex: 1; 
+	order: 3; 
+	padding: 50px;
+	display: flex; 
+	flex-direction: column; 
+	flex-basis: 100%;
+	width: 40%; 
+	flex: 1; 
+	order: 2; 
+
+	@include md{
+		background-color: $teal-two; 
+		text-align: left; 
+		height: 283px; 
+		flex: 1; 
+		order: 3; 
+		padding: 50px;
+		flex-direction: column; 
+		flex-basis: 100%;
+		flex: 1; 
+		order: 2; 
+	}
+
+	@include lg{
+	display: flex; 
+	flex-direction: column; 
 	background-color: $teal-two;  
 	text-align: left; 
-	height: 281px; 
+	align-content: left; 
+	height: 283px; 
 	flex: 1; 
-	padding: 50px; 
+	order: 3; 
+	padding: 50px;
+	} 
 }
 
 .footer_subheading{
+	font-size: 12px; 
+	line-height: 16px; 
+
+	@include lg{
 	font-size: 24px; 
 	padding-bottom: 16px; 
+	}
 }
 
 .footer__contact-body-text{
+	font-size: 10px; 
+	line-height: 17px; 
+
+	@include lg{
 	font-size: 16px; 
 	line-height: 10px; 
+	}
 }
 
 
 
 .row2 {
 	display: flex; 
-	flex-direction: row; 
+	flex-direction: column; 
 	flex-wrap: wrap; 
+	order: 3; 
 	width: 100%; 
 }
 
@@ -166,9 +405,33 @@
 	flex-basis: 100%; 
 	align-items: center; 
 	justify-content: space-between; 
+	padding-left: 50px; 
+	padding-right: 50px; 
+
+
+	@include md{
+		display: flex; 
+		background-color: $sunglow; 
+		line-height: 17px; 
+		font-size: 10px;
+		flex-basis: 100%; 
+		align-items: center; 
+		justify-content: space-between; 
+		padding-left: 100px; 
+		padding-right: 100px; 
+	}
+
+	@include lg{
+	display: flex; 
+	background-color: $sunglow; 
+	line-height: 17px; 
+	font-size: 10px;
+	flex-basis: 100%; 
+	align-items: center; 
+	justify-content: space-between; 
 	padding-left: 300px; 
 	padding-right: 300px; 
-	flex: 1; 
+	}
 }
 
 .social-icon {

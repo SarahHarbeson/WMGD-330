@@ -548,6 +548,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/productslg.png" : {
+      "ft" : 32768,
+      "iS" : 345522,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/productslg.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/productsmd.png" : {
+      "ft" : 32768,
+      "iS" : 189748,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/productsmd.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/rainy.jpg" : {
       "ft" : 16384,
       "iS" : 1675083,

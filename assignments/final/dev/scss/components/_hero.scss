@@ -1,37 +1,131 @@
-._hero {
+
+.hero {
 	background-image: url('../img/products.png');
 	background-position: right;
-	background-size: cover;
-	background-color: $journal; 
-	height: 427px;
+	background-size: 50%;
+	background-repeat: no-repeat; 
+	//height: 262px;
 	display: flex;
-	justify-content: flex-end; 
+	flex-direction: row; 
+	text-align: center;
+	align-items: center;
+	justify-content: flex-start;
 	@include md {
-		width: 409px;
+		background-image: url('../img/productsmd.png');
+		background-position: right;
+		background-size: 60%;
+		background-repeat: no-repeat; 
 		height: 353px;
 	}
 	@include lg {
-		width: 740px;
-		height: 333px;
+		background-image: url('../img/productslg.png');
+		background-position: right;
+		background-size: 740px 333px;
+		background-repeat: no-repeat; 
 	}
 }
 
-.hero__heading {
-	color: $white;
-	font-size: 22px;
+.hero_content{
+	background-color: $hero; 
+	background-position: left; 
+	display: flex;
+	flex: 1; 
+	text-align: center; 
+	flex-direction: column; 
+	flex-basis: 100%;
+	height: 262px;
+	width: 100%;
+	padding-left: 50px; 
+	padding-right: 50px; 
+	font-size: 35px;
+	line-height: 55px;
 
 	@include md {
-		font-size: 26px;
+		background-color: $hero; 
+		background-position: left; 
+		display: flex;
+		flex: 1; 
+		text-align: center; 
+		flex-direction: column; 
+		flex-basis: 100%;
+		height: 353px;
+		width: 50%; 
+		padding: 50px; 
+		font-size: 70px;
+		line-height: 75px;
 	}
 	@include lg {
-		font-size: 32px;
+		background-color: $hero; 
+		background-position: left; 
+		display: flex;
+		flex: 1; 
+		text-align: center; 
+		flex-direction: column; 
+		flex-basis: 100%;
+		height: 333px;
+		width: 80%;  
+		padding: 50px; 
+		font-size: 70px;
+		line-height: 75px;
 	}
 }
-.hero__button {
-	color: $sunglow;
-	display: inline-block;
-	margin-top: 5px;
-	text-decoration: none;
-	background-color: $journal;
-	padding: 10px 15px;
+
+.hero_title{
+	margin-top: -15px; 
 }
+
+.subhead{
+	font-size: 22px;
+	line-height: 24px; 
+	margin-top: -20px; 
+
+	@include md{
+	width: 834px;
+	height: 23.5px;
+	left: 0px;
+	top: 181px;
+	}
+}
+
+.hero_button{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 8px 18px;
+	gap: 6px;
+	width: 135px;
+	height: 33px;
+	left: 55px;
+	top: 246px;
+	background: $sunglow;
+	border-radius: 8px;
+	font-size: 14px; 
+	line-height: 17px; 
+
+	@include md{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 8px 18px;
+	gap: 6px;
+
+	width: 188px;
+	height: 32.31px;
+	left: 323px;
+	top: 228.5px;
+
+	background-color: $sunglow; 
+	border-radius: 8px;
+	}
+
+	@include lg{
+		
+	}
+}
+
+
+
+
+
