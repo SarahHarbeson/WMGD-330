@@ -939,7 +939,7 @@ h1, h2, h3, h4, h5, h6 {
       padding-bottom: 44px; } }
 .journal-block__title {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   font-style: normal;
   justify-content: center;
@@ -961,8 +961,7 @@ h1, h2, h3, h4, h5, h6 {
   @media (min-width: 768px) {
     .journal-block__grid {
       flex-direction: row;
-      justify-content: center;
-      flex-wrap: wrap; } }
+      justify-content: center; } }
 .journal-block {
   background: #E5E5E5;
   width: 190px;
@@ -989,6 +988,23 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   line-height: 17px; }
 
+.next_line {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center; }
+
+.scrolling_circles {
+  padding-top: 18px;
+  padding-bottom: 23px; }
+  @media (min-width: 768px) {
+    .scrolling_circles {
+      padding-top: 15px;
+      padding-bottom: 72px; } }
+  @media (min-width: 992px) {
+    .scrolling_circles {
+      padding-top: 24px;
+      padding-bottom: 56px; } }
 .biking_hero {
   background-image: url("../img/rainy.jpg");
   background-position: right;

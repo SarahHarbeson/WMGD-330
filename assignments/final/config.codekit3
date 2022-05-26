@@ -621,6 +621,19 @@
       "oAP" : "\/deploy\/img\/s.ico",
       "oF" : 0
     },
+    "\/deploy\/img\/scrollingcircles.png" : {
+      "ft" : 32768,
+      "iS" : 402,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/scrollingcircles.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/ShopInside.jpg" : {
       "ft" : 16384,
       "iS" : 112940,
