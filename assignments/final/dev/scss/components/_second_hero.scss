@@ -2,5 +2,69 @@
 background-image: url('../img/rainy.jpg');
 background-position: right;
 background-size: 100%;
+height: 138px; 
 background-repeat: no-repeat; 
+display: flex;
+flex-direction: column; 
+text-align: center;
+align-items: center;
+justify-content: center;
+padding: 30px; 
+
+
+@include md{
+background-image: url('../img/rainy.jpg');
+background-position: right;
+background-size: 100%;
+height: 212px; 
+background-repeat: no-repeat; 
+padding: 50px; 
+}
+
+@include lg{
+background-image: url('../img/rainy.jpg');
+background-position: right;
+background-size: 100%;
+height: 212px; 
+background-repeat: no-repeat; 
+}
+}
+
+.secondhero_title{
+    display: flex; 
+    flex: 1; 
+    flex-direction: row; 
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center; 
+    color: $white; 
+
+    @include md{
+        font-size: 24px; 
+        line-height: 24px; 
+    }
+}
+
+.secondhero_button{
+    display: flex; 
+    flex-direction: row;  
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    font-size: 14px; 
+    line-height: 17px; 
+    background-color: $sunglow; 
+    border: 1px solid $sunglow; 
+    border-radius: 8px; 
+    padding: 8px; 
+	width: 250px;
+	height: 30px;
+	left: 55px;
+	top: 246px;
+
+    @include lg{
+        align-items: cener; 
+        padding-top: 15px; 
+        padding-bottom: 15px; 
+    }
 }

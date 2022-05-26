@@ -25,7 +25,6 @@
 .header_logos{
 	display: flex; 
 	align-items: center; 
-	justify-content: center; 
 }
 
 .header_logoicon{
@@ -38,9 +37,16 @@
 }
 
 .header_logo{
+	display: flex; 
+	flex-direction: column; 
+	align-items: center; 
+	justify-content: center; 
+	margin-left: 35px; 
+	margin-top: -28px; 
 	width: 109px; 
 	height: 18px; 
 	@include lg{
+		margin-top: -35px;
 		width: 169px; 
 		height: 28px; 
 	}

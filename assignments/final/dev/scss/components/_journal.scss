@@ -1,0 +1,71 @@
+.journal-block__section {
+	padding-top: 17px;
+	padding-bottom: 17px;
+	@include md {
+		padding-top: 24px;
+		padding-bottom: 24px;
+	}
+	@include lg {
+		padding-top: 44px;
+		padding-bottom: 44px;
+	}
+}
+.journal-block__title {
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+	font-style: normal;
+    justify-content: center; 
+	font-weight: 500;
+	font-size: 28px;
+    padding-top: 72px; 
+    padding-bottom: 72px; 
+	@include md {
+		font-size: 28px;
+		line-height: 24px;
+	}
+	@include lg {
+		font-size: 34px;
+		line-height: 40px;
+	}
+}
+
+.journal-block__grid {
+	display: flex;
+	flex-direction: row;
+	@include md {
+		flex-direction: row;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+}
+.journal-block {
+	background: $journal;
+	width: 190px;
+	margin-bottom: 16px;
+	@include md {
+		margin-top: 16px;
+		margin-right: 16px;
+		margin-left: 16px;
+	}
+}
+
+.journal-block__wrapper {
+	padding: 15px;
+}
+
+.journal-block__image {
+	width: 100%;
+    width: 190px; 
+    height: 134px; 
+    object-fit: cover; 
+    background-position: center; 
+}
+
+.journal-block__heading {
+    text-align: center; 
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 17px;
+}
