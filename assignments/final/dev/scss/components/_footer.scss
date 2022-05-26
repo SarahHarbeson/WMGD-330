@@ -204,15 +204,15 @@
 
 .footer__content {
 	background-color: $teal; 
-	height: 100%; 
-	align-items: center;
+	//height: 100%; 
+	//align-items: center;
 	text-align: center;  
-	align-self: stretch; 
-	display: inline-flex; 
-	flex-direction: column;
-	flex-basis: 100%;
-	width: 60%;
-	flex: 1;
+	//align-self: stretch; 
+	//display: block; 
+	//flex-direction: column;
+	//flex-basis: 100%;
+	//width: 60%;
+	//flex: 1;
 	order: 1; 
 
 	@include md{
