@@ -5,6 +5,7 @@
 	background-size: 50%;
 	background-repeat: no-repeat; 
 	//height: 262px;
+	height: 100%; 
 	display: flex;
 	flex-direction: row; 
 	text-align: center;
@@ -20,7 +21,7 @@
 	@include lg {
 		background-image: url('../img/productslg.png');
 		background-position: right;
-		background-size: 740px 333px;
+		background-size: 740px 100%;
 		background-repeat: no-repeat; 
 	}
 }
@@ -47,6 +48,7 @@
 		flex: 1; 
 		text-align: center; 
 		flex-direction: column; 
+		align-items: center; 
 		flex-basis: 100%;
 		height: 353px;
 		width: 50%; 
@@ -62,28 +64,40 @@
 		text-align: center; 
 		flex-direction: column; 
 		flex-basis: 100%;
-		height: 333px;
+		height: 353px; 
 		width: 80%;  
-		padding: 50px; 
 		font-size: 70px;
 		line-height: 75px;
 	}
 }
 
 .hero_title{
+	margin-top: 10px; 
+
+	@include md{
 	margin-top: -15px; 
+	}
+
+	@include lg{
+		margin-top: -15px; 
+		}
 }
 
 .subhead{
+	display: flex; 
+	justify-content: center; 
 	font-size: 22px;
 	line-height: 24px; 
 	margin-top: -20px; 
 
 	@include md{
+	display: flex; 
+	flex-direction: row;
+	align-items: center; 
 	width: 834px;
 	height: 23.5px;
-	left: 0px;
 	top: 181px;
+	margin-top: -50px; 
 	}
 }
 
@@ -93,7 +107,6 @@
 	justify-content: center;
 	align-items: center;
 	padding: 8px 18px;
-	gap: 6px;
 	width: 135px;
 	height: 33px;
 	left: 55px;
@@ -102,6 +115,7 @@
 	border-radius: 8px;
 	font-size: 14px; 
 	line-height: 17px; 
+	border: 1px solid $sunglow; 
 
 	@include md{
 	display: flex;
@@ -121,7 +135,20 @@
 	}
 
 	@include lg{
-		
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+		padding: 8px 18px;
+		gap: 6px;
+		width: 188px;
+		height: 32.31px;
+		left: 323px;
+		top: 228.5px;
+		background: $sunglow;
+		border-radius: 8px;
+		font-size: 14px; 
+		line-height: 17px; 
 	}
 }
 

@@ -1132,6 +1132,38 @@
       "oAP" : "\/dev\/components\/hero.html",
       "oF" : 0
     },
+    "\/dev\/components\/journal.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/journal.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/journal.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/journal.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/latestgreatest.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/latestgreatest.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/second_hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/second_hero.html",
+      "oF" : 0
+    },
     "\/dev\/img\/s.ico" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1279,6 +1311,36 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/dev\/scss\/components\/_journal.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_journal.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_latestgreatest.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_latestgreatest.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/dev\/scss\/components\/_main-content.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -1304,6 +1366,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_second_hero.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_second_hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
