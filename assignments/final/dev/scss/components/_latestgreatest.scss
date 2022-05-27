@@ -11,10 +11,15 @@
 .sm__collage{
     display: flex; 
     justify-content: center; 
+    vertical-align: bottom; 
     align-items: center; 
     flex-direction: row; 
     flex-wrap: wrap; 
     padding-bottom: 72px; 
+
+    @include md{
+        display: none; 
+    }
 }
 
 .collage__image-1 {
@@ -24,6 +29,15 @@
     height: 190px; 
     object-fit: cover; 
     background-position: center; 
+
+    @include md{
+        flex-wrap: wrap; 
+        padding: 8px; 
+        width: 190px; 
+        height: 98px; 
+        object-fit: cover; 
+        background-position: center;         
+    }
 }
 
 .collage__image-2 {
@@ -42,6 +56,15 @@
     height: 190px; 
     object-fit: cover; 
     background-position: center; 
+
+    @include md{
+    flex-wrap: wrap; 
+    padding: 8px; 
+    width: 393px; 
+    height: 191px; 
+    object-fit: cover; 
+    background-position: center; 
+    }
 }
 
 .collage__image-4 {
@@ -60,6 +83,15 @@
     height: 190px; 
     object-fit: cover; 
     background-position: center; 
+
+    @include md{
+        flex-wrap: wrap; 
+        padding: 8px; 
+        width: 190px; 
+        height: 292px; 
+        object-fit: cover; 
+        background-position: center;        
+    }
 }
 
 .collage__image-6 {
@@ -69,4 +101,153 @@
     height: 190px; 
     object-fit: cover; 
     background-position: center; 
+}
+
+
+
+.md__collage{
+    display: flex; 
+    justify-content: center; 
+    vertical-align: bottom; 
+    align-items: center; 
+    flex-direction: row; 
+    flex-wrap: wrap; 
+    padding-bottom: 72px; 
+    max-width: 600px; 
+}
+
+.row-1{
+    display: flex; 
+    flex-direction: row; 
+}
+
+.row-2{
+    display: flex; 
+    flex-direction: row; 
+    align-self: center; 
+   // margin-left: 181px; 
+}
+
+.row3half{
+    display: flex; 
+    flex-direction: row; 
+    flex: 1; 
+
+    justify-content: space-between; 
+    flex-wrap: wrap; 
+    max-width: 598px; 
+}
+
+
+.mdcollage__image-7{
+        display: none; 
+ 
+
+    @include md{
+    display: flex; 
+    flex-wrap: wrap; 
+    padding: 8px; 
+    width: 190px; 
+    height: 190px; 
+    object-fit: cover; 
+    background-position: center; 
+    }
+}
+
+.mdcollage__image-3{
+    display: none; 
+
+
+@include md{
+display: flex; 
+flex-wrap: wrap; 
+padding: 8px; 
+width: 393px; 
+height: 190px; 
+object-fit: cover; 
+background-position: center; 
+}
+}
+
+.mdcollage__image-1{
+display: none; 
+
+@include md{
+display: flex; 
+flex-wrap: wrap; 
+padding: 8px; 
+width: 190px; 
+height: 98px; 
+object-fit: cover; 
+background-position: center; 
+}
+}
+
+.mdcollage__image-5{
+    display: none; 
+    
+    @include md{
+    display: flex; 
+    flex-wrap: wrap; 
+    padding: 8px; 
+    width: 190px; 
+    height: 292px; 
+    object-fit: cover; 
+    background-position: center; 
+    }
+    }
+
+    .mdcollage__image-8{
+        display: none; 
+        
+        @include md{
+        display: flex; 
+        flex-wrap: wrap; 
+        padding: 8px; 
+        width: 190px; 
+        height: 138px; 
+        object-fit: cover; 
+        background-position: center; 
+        }
+        }
+
+        .mdcollage__image-6{
+            display: none; 
+            
+            @include md{
+            display: flex; 
+            padding: 8px; 
+            width: 190px; 
+            height: 138px; 
+            object-fit: cover; 
+            background-position: center; 
+            }
+        }
+
+.mdcollage__image-2{
+display: none; 
+                
+@include md{
+display: flex; 
+flex-wrap: wrap; 
+padding: 8px; 
+width: 190px; 
+height: 190px; 
+object-fit: cover; 
+background-position: center; 
+}
+}
+
+.mdcollage__image-4{
+    display: none; 
+                    
+    @include md{
+    display: flex; 
+    flex-wrap: wrap; 
+    padding: 8px; 
+    width: 598px; 
+    height: 140px; 
+    object-fit: cover; 
+    background-position: center; 
+    }
 }
