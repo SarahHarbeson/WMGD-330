@@ -107,9 +107,9 @@
 
 .md__collage{
     display: flex; 
-    justify-content: center; 
+    justify-content: flex-start; 
     vertical-align: bottom; 
-    align-items: center; 
+    align-items: left; 
     flex-direction: row; 
     flex-wrap: wrap; 
     padding-bottom: 72px; 
@@ -130,12 +130,12 @@
 
 .row3half{
     display: flex; 
-    flex-direction: row; 
+    flex-direction: column; 
     flex: 1; 
 
-    justify-content: space-between; 
+    justify-content: flex-start; 
     flex-wrap: wrap; 
-    max-width: 598px; 
+   max-width: 598px; 
 }
 
 
@@ -211,11 +211,12 @@ background-position: center;
         }
         }
 
+
         .mdcollage__image-6{
             display: none; 
             
             @include md{
-            display: flex; 
+            display: block; 
             padding: 8px; 
             width: 190px; 
             height: 138px; 
@@ -235,6 +236,7 @@ width: 190px;
 height: 190px; 
 object-fit: cover; 
 background-position: center; 
+justify-content: space-between; 
 }
 }
 
