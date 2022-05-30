@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34365",
   "files" : {
+    "\/deploy\/aboutindex.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/aboutindex.html",
+      "oF" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -332,6 +340,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/img\/favicon.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/favicon.ico",
+      "oF" : 0
     },
     "\/deploy\/img\/footer.png" : {
       "ft" : 32768,
@@ -1105,6 +1121,14 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/dev\/components\/aboutindex.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/aboutindex.html",
+      "oF" : 0
+    },
     "\/dev\/components\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -1167,6 +1191,22 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/latestgreatest.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/ourstory.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/ourstory.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/ourstory.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/ourstory.html",
       "oF" : 0
     },
     "\/dev\/components\/second_hero.kit" : {
@@ -1244,6 +1284,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/base\/_typography.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_aboutindex.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_aboutindex.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -1384,6 +1439,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/dev\/scss\/components\/_ourstory.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_ourstory.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/dev\/scss\/components\/_second_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -1455,7 +1525,7 @@
     "creationDate" : 607448965.33801401,
     "displayValue" : "final",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-forest",
+    "iconImageName" : "meme-archer",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
