@@ -1517,52 +1517,48 @@ h1, h2, h3, h4, h5, h6 {
       padding-top: 15px;
       padding-bottom: 15px; } }
 .ourstory_hero {
-  background-image: url("../img/Header.jpg");
+  background-image: url("../img/ourStoryHeader/ourStorysm.png");
   background-position: left;
   background-size: 50%;
   background-repeat: no-repeat;
+  height: 100%;
   display: flex;
   flex-direction: row;
   text-align: center;
   align-items: center;
-  justify-content: flex-start;
-  height: 164px; }
+  justify-content: flex-start; }
   @media (min-width: 768px) {
     .ourstory_hero {
-      background-image: url("../img/Header.jpg");
+      background-image: url("../img/ourStoryHeader/ourStorymd.png");
       background-position: left;
       background-size: 60%;
       background-repeat: no-repeat;
       height: 209px; } }
   @media (min-width: 992px) {
     .ourstory_hero {
-      background-image: url("../img/Header.jpg");
-      background-position: left;
+      background-image: url("../img/ourStoryHeader/ourStorylg.png");
       background-repeat: no-repeat;
       display: flex;
       flex-wrap: wrap;
-      width: 847px;
-      height: 257px;
       object-fit: cover;
-      background-position: center; } }
+      background-position: left; } }
 .ourstoryhero__content {
   background-color: #50BCD2;
   background-position: right;
+  color: #FFFFFF;
   display: flex;
   flex: 1;
   text-align: center;
-  flex-direction: flex-end;
   flex-basis: 100%;
   height: 164x;
   width: 100%;
-  padding-left: 50px;
-  padding-right: 50px;
   font-size: 35px;
   line-height: 55px; }
   @media (min-width: 768px) {
     .ourstoryhero__content {
       background-color: #50BCD2;
       background-position: right;
+      color: #FFFFFF;
       display: flex;
       flex: 1;
       text-align: center;
@@ -1578,13 +1574,11 @@ h1, h2, h3, h4, h5, h6 {
     .ourstoryhero__content {
       display: flex;
       background-color: #50BCD2;
-      background-position: right;
-      display: flex;
+      background-position: left;
+      color: #FFFFFF;
       flex: 1;
       text-align: center;
       flex-direction: column;
-      flex-basis: 100%;
-      height: 257px;
-      width: 80%;
+      width: 490px;
       font-size: 70px;
       line-height: 75px; } }
