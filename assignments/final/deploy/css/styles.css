@@ -1550,9 +1550,10 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   flex: 1;
   text-align: center;
+  justify-content: center;
   flex-basis: 100%;
   height: 164x;
-  width: 100px;
+  width: 230%;
   font-size: 35px;
   line-height: 55px; }
   @media (min-width: 768px) {
@@ -1567,7 +1568,7 @@ h1, h2, h3, h4, h5, h6 {
       align-items: center;
       flex-basis: 100%;
       height: 209px;
-      width: 200px;
+      width: 230%;
       font-size: 70px;
       line-height: 75px; } }
   @media (min-width: 992px) {
@@ -1582,17 +1583,27 @@ h1, h2, h3, h4, h5, h6 {
       width: 400px;
       font-size: 70px;
       line-height: 75px; } }
-.allstory {
-  display: flex;
-  flex-direction: column;
-  align-items: center; }
+@media (min-width: 576px) {
+  .allstory {
+    display: flex;
+    flex-direction: column;
+    align-items: center; } }
+
+@media (min-width: 768px) {
+  .allstory {
+    display: flex; } }
 
 .ourstory__body1 {
   display: flex;
   flex-direction: column;
   text-align: justify;
-  max-width: 296px; }
-
+  max-width: 296px;
+  padding-top: 52px;
+  padding-bottom: 52px; }
+  @media (min-width: 768px) {
+    .ourstory__body1 {
+      display: flex;
+      max-width: 291px; } }
 .ourstory__body2 {
   display: flex;
   flex-direction: column;
@@ -1609,7 +1620,8 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   flex-direction: column;
   text-align: justify;
-  max-width: 296px; }
+  max-width: 296px;
+  background-color: #FDC430; }
 
 .ourstory__body5 {
   display: flex;
@@ -1639,3 +1651,71 @@ h1, h2, h3, h4, h5, h6 {
   height: 160px;
   object-fit: cover;
   background-position: center; }
+
+.cubhouse_hero {
+  background-image: url("../img/cubhouse/cubhouseHeader1.png");
+  background-position: right;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  justify-content: flex-start; }
+  @media (min-width: 768px) {
+    .cubhouse_hero {
+      background-image: url("../img/cubhouse/cubhouseHeader2.png");
+      background-position: right;
+      background-size: 60%;
+      background-repeat: no-repeat;
+      height: 209px; } }
+  @media (min-width: 992px) {
+    .cubhouse_hero {
+      background-image: url("../img/cubhouse/cubhouseHeader3.png");
+      background-repeat: no-repeat;
+      background-size: 70%;
+      display: flex;
+      flex-wrap: wrap;
+      object-fit: cover;
+      background-position: right; } }
+.cubhousehero__content {
+  background-color: #4296B5;
+  background-position: right;
+  color: #FFFFFF;
+  display: flex;
+  flex: 1;
+  text-align: right;
+  justify-content: center;
+  flex-basis: 100%;
+  height: 160x;
+  width: 230%;
+  font-size: 35px;
+  line-height: 55px; }
+  @media (min-width: 768px) {
+    .cubhousehero__content {
+      background-color: #4296B5;
+      background-position: right;
+      color: #FFFFFF;
+      display: flex;
+      flex: 1;
+      text-align: right;
+      flex-direction: column;
+      align-items: center;
+      flex-basis: 100%;
+      height: 209px;
+      width: 230%;
+      font-size: 70px;
+      line-height: 75px; } }
+  @media (min-width: 992px) {
+    .cubhousehero__content {
+      display: flex;
+      background-color: #4296B5;
+      background-position: right;
+      color: #FFFFFF;
+      text-align: right;
+      justify-content: center;
+      flex-direction: column;
+      width: 400px;
+      font-size: 70px;
+      line-height: 65px; } }

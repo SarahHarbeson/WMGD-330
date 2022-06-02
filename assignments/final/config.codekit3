@@ -94,6 +94,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/cubhouse\/cubhouseHeader1.png" : {
+      "ft" : 32768,
+      "iS" : 68421,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cubhouse\/cubhouseHeader1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cubhouse\/cubhouseHeader2.png" : {
+      "ft" : 32768,
+      "iS" : 257929,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cubhouse\/cubhouseHeader2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cubhouse\/cubhouseHeader3.png" : {
+      "ft" : 32768,
+      "iS" : 526940,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cubhouse\/cubhouseHeader3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/desert.jpg" : {
       "ft" : 16384,
       "iS" : 3724364,
