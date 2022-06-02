@@ -1582,3 +1582,60 @@ h1, h2, h3, h4, h5, h6 {
       width: 400px;
       font-size: 70px;
       line-height: 75px; } }
+.allstory {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.ourstory__body1 {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 296px; }
+
+.ourstory__body2 {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 296px; }
+
+.ourstory__body3 {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 296px; }
+
+.ourstory__body4 {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 296px; }
+
+.ourstory__body5 {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 296px; }
+
+.ourstory__body6 {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 296px; }
+
+.storyimg1 {
+  flex-wrap: wrap;
+  padding: 8px;
+  width: 179px;
+  height: 160px;
+  object-fit: cover;
+  background-position: center; }
+
+.storyimg2 {
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 5px;
+  width: 179px;
+  height: 160px;
+  object-fit: cover;
+  background-position: center; }
