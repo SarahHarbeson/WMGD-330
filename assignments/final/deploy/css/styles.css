@@ -1583,16 +1583,13 @@ h1, h2, h3, h4, h5, h6 {
       width: 400px;
       font-size: 70px;
       line-height: 75px; } }
-@media (min-width: 576px) {
-  .allstory {
-    display: flex;
-    flex-direction: column;
-    align-items: center; } }
-
-@media (min-width: 768px) {
-  .allstory {
-    display: flex; } }
-
+.allstory {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  @media (min-width: 768px) {
+    .allstory {
+      display: flex; } }
 .ourstory__body1 {
   display: flex;
   flex-direction: column;
@@ -1719,3 +1716,76 @@ h1, h2, h3, h4, h5, h6 {
       width: 400px;
       font-size: 70px;
       line-height: 65px; } }
+.wholestory {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  @media (min-width: 768px) {
+    .wholestory {
+      display: flex; } }
+.cubhouse__body1 {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 296px;
+  padding-top: 52px;
+  padding-bottom: 52px; }
+  @media (min-width: 768px) {
+    .cubhouse__body1 {
+      display: flex;
+      max-width: 291px; } }
+.cubhouse__body2 {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 296px; }
+
+.cubhouse__body3 {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 296px; }
+
+.cubhouse__body4 {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 296px; }
+
+.storyimg1 {
+  flex-wrap: wrap;
+  padding: 8px;
+  width: 179px;
+  height: 160px;
+  object-fit: cover;
+  background-position: center; }
+
+.storyimg2 {
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 5px;
+  width: 179px;
+  height: 160px;
+  object-fit: cover;
+  background-position: center; }
+
+.storyimg3 {
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding: 5px;
+  width: 426px;
+  height: 160px;
+  object-fit: cover;
+  background-position: center; }
+  @media (min-width: 768px) {
+    .storyimg3 {
+      width: 838px;
+      height: 252px; } }
+  @media (min-width: 992px) {
+    .storyimg3 {
+      width: 1280px;
+      height: 337px; } }
+.bottomplants {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 32px; }

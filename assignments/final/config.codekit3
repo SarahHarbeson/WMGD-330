@@ -933,6 +933,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/Van.jpg" : {
+      "ft" : 16384,
+      "iS" : 149953,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Van.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/waterbottles.jpg" : {
       "ft" : 16384,
       "iS" : 370247,
@@ -1163,19 +1176,6 @@
       "oIPL" : 0,
       "opt" : 0,
       "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/WebGraphics Assets\/Vancopy.jpg" : {
-      "ft" : 16384,
-      "iS" : 149953,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/WebGraphics Assets\/Vancopy.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
