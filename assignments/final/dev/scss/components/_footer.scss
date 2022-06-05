@@ -1,209 +1,208 @@
-
 .footer {
 	color: $white;
-	display: flex; 
-	flex-direction: column; 
-	flex-wrap: wrap; 
-	width: 100%; 
-	background-color: $teal; 
-	height: 272px; 
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	width: 100%;
+	background-color: $teal;
+	height: 272px;
 
-	@include lg{
-	color: $white;
-	display: flex; 
-	flex-direction: row; 
-	flex-wrap: wrap; 
-	width: 100%; 
+	@include lg {
+		color: $white;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		width: 100%;
 	}
 }
 
 
 .footer__contact-block1 {
-	background-color: $darkest-teal; 
-	display: inline-flex; 
-	flex-direction: column; 
+	background-color: $darkest-teal;
+	display: inline-flex;
+	flex-direction: column;
 	flex-basis: 100%;
 	height: 119.5px;
-	flex-wrap: wrap; 
-	width: 40%; 
-	flex: 1; 
-	order: 3; 
-	padding: 50px; 
-	text-align: right; 
-	align-self: end; 
+	flex-wrap: wrap;
+	width: 40%;
+	flex: 1;
+	order: 3;
+	padding: 50px;
+	text-align: right;
+	align-self: end;
 
-	@include md{
-		background-color: $darkest-teal; 
-		display: flex; 
-		flex-direction: column; 
-		flex-basis: 100%; 
-		flex: 1; 
-		order: 3; 
-		padding: 50px; 
-		text-align: right; 
+	@include md {
+		background-color: $darkest-teal;
+		display: flex;
+		flex-direction: column;
+		flex-basis: 100%;
+		flex: 1;
+		order: 3;
+		padding: 50px;
+		text-align: right;
 	}
 
-	@include lg{
-	background-color: $teal-two; 
-	display: flex; 
-	flex-direction: column; 
-	flex-basis: 100%; 
-	flex: 1; 
-	order: 1; 
-	padding: 50px; 
-	height: 283px; 
-	text-align: right; 
-	align-self: stretch; 
+	@include lg {
+		background-color: $teal-two;
+		display: flex;
+		flex-direction: column;
+		flex-basis: 100%;
+		flex: 1;
+		order: 1;
+		padding: 50px;
+		height: 320px;
+		text-align: right;
+		align-self: stretch;
 	}
 }
 
 .footer__contact-row {
 	display: flex;
-	justify-content: end; 
+	justify-content: end;
 }
 
-.social_media{
-	display: flex; 
-	flex-direction: row; 
-	justify-content: center; 
-	flex-wrap: wrap; 
+.social_media {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
 	//width: 170px;  
-	padding-top: 32px; 
+	padding-top: 32px;
 
-	@include lg{
-		display: flex; 
-		flex-direction: row; 
-		flex-wrap: wrap; 
+	@include lg {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
 		//width: 170px;  
-		padding-top: 16px; 
+		padding-top: 16px;
 	}
 }
 
-.light__icons{
-	display: flex; 
-	flex-direction: row; 
-	justify-content: left; 
-	align-items: left; 
-	flex-wrap: wrap; 
+.light__icons {
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	align-items: left;
+	flex-wrap: wrap;
 }
 
 .fb__icon {
-	display: none; 
+	display: none;
 
-	@include lg{
-	display: flex; 
-	flex-direction: column; 
-	flex-basis: 100%; 
-	flex: 1; 
-	max-height: 26px;
-	max-width: 26px;  
-	margin: 0 8px; 
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		flex-basis: 100%;
+		flex: 1;
+		max-height: 26px;
+		max-width: 26px;
+		margin: 0 8px;
 	}
 }
 
 .t__icon {
-	display: none; 
+	display: none;
 
-	@include lg{
-	display: flex; 
-	max-height: 26px; 
-	margin: 0 8px; 
+	@include lg {
+		display: flex;
+		max-height: 26px;
+		margin: 0 8px;
 	}
 }
 
 .insta__icon {
-	display: none; 
+	display: none;
 
-	@include lg{
-	display: flex; 
-	max-height: 26px;
-	margin: 0 8px; 
+	@include lg {
+		display: flex;
+		max-height: 26px;
+		margin: 0 8px;
 	}
 }
 
 .ch__icon {
-	display: none; 
+	display: none;
 
-	@include lg{
-	display: flex; 
-	max-height: 26px; 
-	margin-left: 8px; 
+	@include lg {
+		display: flex;
+		max-height: 26px;
+		margin-left: 8px;
 	}
 }
 
 .fb__iconlight {
 	display: flex;
-	max-height: 26px; 
-	margin: 11px; 
-	
+	max-height: 26px;
+	margin: 11px;
 
-	@include md{
-		display: flex; 
-		max-height: 26px; 
-		margin: 8px; 
+
+	@include md {
+		display: flex;
+		max-height: 26px;
+		margin: 8px;
 	}
 
-	@include lg{
-		display: none; 
+	@include lg {
+		display: none;
 	}
 }
 
 .t__iconlight {
 
-	display: flex; 
-	max-height: 26px; 
-	margin: 11px; 
-	
+	display: flex;
+	max-height: 26px;
+	margin: 11px;
 
-	@include md{
-		display: flex; 
-		max-height: 26px; 
-		margin: 8px; 
+
+	@include md {
+		display: flex;
+		max-height: 26px;
+		margin: 8px;
 	}
 
-	@include lg{
-		display: none; 
+	@include lg {
+		display: none;
 	}
 }
 
 .insta__iconlight {
 
-	display: flex; 
+	display: flex;
 	max-height: 26px;
-	margin: 11px; 
-	
+	margin: 11px;
 
-	@include md{
-		display: flex; 
+
+	@include md {
+		display: flex;
 		max-height: 26px;
-		margin: 8px; 
+		margin: 8px;
 	}
 
-	@include lg{
-		display: none; 
+	@include lg {
+		display: none;
 	}
 }
 
 .ch__iconlight {
 
-	display: flex; 
-	max-height: 26px; 
-	margin-left: 11px; 
-	
+	display: flex;
+	max-height: 26px;
+	margin-left: 11px;
 
-	@include md{
-		display: flex; 
-		max-height: 26px; 
-		margin-left: 8px; 
+
+	@include md {
+		display: flex;
+		max-height: 26px;
+		margin-left: 8px;
 	}
 
-	@include lg{
-		display: none; 
+	@include lg {
+		display: none;
 	}
 }
 
 .footer__header {
-	padding-top: 50px; 
+	padding-top: 50px;
 	margin-bottom: 16px;
 	font-style: normal;
 	font-weight: 600;
@@ -213,100 +212,100 @@
 }
 
 .footer__content {
-	background-color: $teal; 
+	background-color: $teal;
 	//height: 100%; 
 	//align-items: center;
-	text-align: center;  
-	align-self: baseline; 
-	display: block; 
+	text-align: center;
+	align-self: baseline;
+	display: block;
 	flex-direction: row;
 	//flex-basis: 100%;
 	width: 60%;
-	height: 239px; 
+	height: 239px;
 	flex: 1;
-	order: 1; 
+	order: 1;
 
-	@include md{
-		background-color: $teal; 
-		height: 281px; 
+	@include md {
+		background-color: $teal;
+		height: 281px;
 		align-items: center;
-		text-align: right;  
-		display: flex; 
-		flex-direction: row; 
+		text-align: right;
+		display: flex;
+		flex-direction: row;
 		flex-basis: 100%;
-		order: 1; 
+		order: 1;
 		flex: 1;
 	}
 
-	@include lg{
-	background-color: $teal; 
-	height: 283px; 
-	align-items: center;
-	text-align: center; 
-	flex: 1; 
-	order: 2; 
+	@include lg {
+		background-color: $teal;
+		height: 320px;
+		align-items: center;
+		text-align: center;
+		flex: 1;
+		order: 2;
 	}
 }
 
 .footer__contact-content {
 	text-align: center;
-	padding-left: 100px; 
-	padding-right: px; 
-	padding-bottom: 5px; 
+	padding-left: 100px;
+	padding-right: px;
+	padding-bottom: 5px;
 
-	@include lg{
-	text-align: center;
-	padding-left: 70px; 
-	padding-right: 70px; 
-	padding-bottom: 5px; 
+	@include lg {
+		text-align: center;
+		padding-left: 70px;
+		padding-right: 70px;
+		padding-bottom: 5px;
 	}
 
 }
 
 
 .footer-column-2 {
-	display: flex; 
-	justify-content: center; 
-	text-align: center; 
+	display: flex;
+	justify-content: center;
+	text-align: center;
 	border: 5px solid $teal-two;
-	border-radius: 5px; 
+	border-radius: 5px;
 
-	@include md{
-		display: flex; 
-		justify-content: center; 
-		text-align: right; 
+	@include md {
+		display: flex;
+		justify-content: center;
+		text-align: right;
 		border: 5px solid $teal-two;
-		border-radius: 5px; 
-	
+		border-radius: 5px;
+
 	}
 
-	@include lg{
-	display: flex; 
-	justify-content: center; 
-	text-align: center; 
-	border: 7px solid $teal-two;
-	border-radius: 5px; 
+	@include lg {
+		display: flex;
+		justify-content: center;
+		text-align: center;
+		border: 7px solid $teal-two;
+		border-radius: 5px;
 	}
 }
 
 .footer-column-2__input {
-	font-size: 10px; 
+	font-size: 10px;
 	background: $white;
-	padding: 11px; 
-	width: 80%; 
+	padding: 11px;
+	width: 80%;
 	height: 20px;
-	padding-right: 10px; 
-	border-radius: 0px; 
+	padding-right: 10px;
+	border-radius: 0px;
 
-	@include lg{
-	font-size: 14px; 
-	background: $white;
-	padding: 11px; 
-	width: 200px; 
-	height: 30px;
-	border-radius: 0px; 
-	//margin-right: 10px; 
-	//border: 10px solid $teal-two;
+	@include lg {
+		font-size: 14px;
+		background: $white;
+		padding: 11px;
+		width: 200px;
+		height: 30px;
+		border-radius: 0px;
+		//margin-right: 10px; 
+		//border: 10px solid $teal-two;
 	}
 }
 
@@ -316,150 +315,151 @@
 	font-size: 10px;
 	//line-height: 17px;
 	outline: 0;
-	border-radius: 5px; 
-	padding-left: 10px; 
-	padding-right: 10px; 
-	height: 26px; 
-	text-align: center; 
-	border: 2px solid $teal-two;
-	border-radius: 0px; 
-
-	@include lg{
-	background-color: $sunglow;
-	font-size: 14px;
-	//line-height: 17px;
-	outline: 0;
-	border-radius: 5px; 
-	padding-left: 10px; 
-	padding-right: 10px; 
-	height: 30px; 
-	text-align: center; 
+	border-radius: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 26px;
+	text-align: center;
 	border: 2px solid $teal-two;
 	border-radius: 0px;
-	} 
+
+	@include lg {
+		background-color: $sunglow;
+		font-size: 14px;
+		//line-height: 17px;
+		outline: 0;
+		border-radius: 5px;
+		padding-left: 10px;
+		padding-right: 10px;
+		height: 30px;
+		text-align: center;
+		border: 2px solid $teal-two;
+		border-radius: 0px;
+	}
 }
 
-.footer_image{
-	display: flex; 
-	align-content: center; 
+.footer_image {
+	display: flex;
 
-	width: 20px; 
-	height: 60px; 
+	height: 80px;
+	padding-left: 150px;
+	padding-right: 150px;
+
 }
 
 .footer__need-help {
-	background-color: $teal-two; 
-	background-position: right; 
-	text-align: left; 
-	height: 119.5px; 
-	flex: 1; 
-	order: 3; 
-	padding: 10px; 
-	display: flex; 
-	flex-direction: column; 
+	background-color: $teal-two;
+	background-position: right;
+	text-align: left;
+	height: 119.5px;
+	flex: 1;
+	order: 3;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
 	flex-basis: 100%;
-	width: 40%; 
-	flex: 1; 
-	order: 2; 
-	align-self: end; 
+	width: 40%;
+	flex: 1;
+	order: 2;
+	align-self: end;
 
-	@include md{
-		background-color: $teal-two; 
-		text-align: left; 
-		height: 283px; 
-		flex: 1; 
-		order: 3; 
+	@include md {
+		background-color: $teal-two;
+		text-align: left;
+		height: 283px;
+		flex: 1;
+		order: 3;
 		padding: 50px;
-		flex-direction: column; 
+		flex-direction: column;
 		flex-basis: 100%;
-		flex: 1; 
-		order: 2; 
+		flex: 1;
+		order: 2;
 	}
 
-	@include lg{
-	display: flex; 
-	flex-direction: column; 
-	background-color: $teal-two;  
-	text-align: left; 
-	align-content: left; 
-	height: 283px; 
-	flex: 1; 
-	order: 3; 
-	padding: 50px;
-	} 
-}
-
-.footer_subheading{
-	font-size: 12px; 
-	line-height: 17px; 
-	padding-left: 10px; 
-
-	@include lg{
-	font-size: 24px; 
-	padding-bottom: 16px; 
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		background-color: $teal-two;
+		text-align: left;
+		align-content: left;
+		height: 320px;
+		flex: 1;
+		order: 3;
+		padding: 50px;
 	}
 }
 
-.footer__contact-body-text{
-	font-size: 10px; 
-	line-height: 3px; 
+.footer_subheading {
+	font-size: 12px;
+	line-height: 17px;
+	padding-left: 10px;
 
-	@include lg{
-	font-size: 16px; 
-	line-height: 10px; 
+	@include lg {
+		font-size: 24px;
+		padding-bottom: 16px;
+	}
+}
+
+.footer__contact-body-text {
+	font-size: 10px;
+	line-height: 3px;
+
+	@include lg {
+		font-size: 16px;
+		line-height: 10px;
 	}
 }
 
 
 
 .row2 {
-	display: flex; 
-	flex-direction: column; 
-	flex-wrap: wrap; 
-	align-self: flex-end; 
-	justify-content: flex-end; 
-	order: 4; 
-	width: 100%; 
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-self: flex-end;
+	justify-content: flex-end;
+	order: 4;
+	width: 100%;
 }
 
-.footer-bottom { 
-	display: flex; 
-	background-color: $sunglow; 
-	line-height: 17px; 
+.footer-bottom {
+	display: flex;
+	background-color: $sunglow;
+	line-height: 17px;
 	font-size: 10px;
-	flex-basis: 100%; 
-	align-items: center; 
-	justify-content: space-between; 
-	padding-left: 50px; 
-	padding-right: 50px; 
+	flex-basis: 100%;
+	align-items: center;
+	justify-content: space-between;
+	padding-left: 50px;
+	padding-right: 50px;
 
 
-	@include md{
-		display: flex; 
-		background-color: $sunglow; 
-		line-height: 17px; 
+	@include md {
+		display: flex;
+		background-color: $sunglow;
+		line-height: 17px;
 		font-size: 10px;
-		flex-basis: 100%; 
-		align-items: center; 
-		justify-content: space-between; 
-		padding-left: 100px; 
-		padding-right: 100px; 
+		flex-basis: 100%;
+		align-items: center;
+		justify-content: space-between;
+		padding-left: 100px;
+		padding-right: 100px;
 	}
 
-	@include lg{
-	display: flex; 
-	background-color: $sunglow; 
-	line-height: 17px; 
-	font-size: 10px;
-	flex-basis: 100%; 
-	align-items: center; 
-	justify-content: space-between; 
-	padding-left: 300px; 
-	padding-right: 300px; 
+	@include lg {
+		display: flex;
+		background-color: $sunglow;
+		line-height: 17px;
+		font-size: 10px;
+		flex-basis: 100%;
+		align-items: center;
+		justify-content: space-between;
+		padding-left: 300px;
+		padding-right: 300px;
 	}
 }
 
 .social-icon {
-	text-decoration: none; 
-	color: black; 
+	text-decoration: none;
+	color: black;
 }
