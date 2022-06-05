@@ -1732,8 +1732,8 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: column;
   text-align: justify;
   max-width: 296px;
-  padding-top: 52px;
-  padding-bottom: 52px;
+  margin-top: 52px;
+  margin-bottom: 35px;
   background-color: #FDC430; }
   @media (min-width: 768px) {
     .cubhouse__body1 {
@@ -1814,8 +1814,8 @@ h1, h2, h3, h4, h5, h6 {
       flex-direction: column;
       text-align: justify;
       max-width: 596px;
-      padding-top: 52px;
-      padding-bottom: 52px;
+      margin-top: 52px;
+      margin-bottom: 52px;
       background-color: #FDC430;
       margin-left: 118px; } }
   @media (min-width: 992px) {
@@ -1827,7 +1827,7 @@ h1, h2, h3, h4, h5, h6 {
     .firstthreecubmd {
       display: flex;
       flex-direction: column;
-      margin-top: 70px;
+      margin-top: 15px;
       margin-bottom: -525px; } }
   @media (min-width: 992px) {
     .firstthreecubmd {
@@ -1904,8 +1904,8 @@ h1, h2, h3, h4, h5, h6 {
       flex-direction: column;
       text-align: justify;
       max-width: 597px;
-      padding-top: 52px;
-      padding-bottom: 52px;
+      padding-top: 35px;
+      padding-bottom: 35px;
       margin-left: 118px; } }
   @media (min-width: 992px) {
     .cubhouse__body4md {
