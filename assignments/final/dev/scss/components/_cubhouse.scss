@@ -314,3 +314,225 @@
 		display: none;
 	}
 }
+
+
+
+
+
+.wholestorylg {
+
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+}
+
+.cubhouse__body1lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		text-align: justify;
+		max-width: 628px;
+		margin-top: 52px;
+		margin-bottom: 52px;
+		background-color: $sunglow;
+		margin-left: 326px;
+	}
+}
+
+.firsttwocublg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		margin-top: 15px;
+		margin-bottom: -525px;
+	}
+}
+
+.cubimg1lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+		padding: 10px;
+		width: 290px;
+		height: 148px;
+		margin-left: 945px;
+		object-fit: cover;
+		background-position: center;
+		align-items: center;
+	}
+}
+
+.cubhouse__body2lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		text-align: left;
+		max-width: 529px;
+		margin-left: 108px;
+		margin-top: 312px;
+	}
+}
+
+.toptwolg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: row;
+	}
+}
+
+.cubhouse__body3lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		text-align: justify;
+		max-width: 291px;
+		padding-top: 52px;
+		padding-bottom: 52px;
+		margin-left: 118px;
+		margin-top: -100px;
+
+	}
+}
+
+.cubimg2lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+		padding: 10px;
+		width: 290px;
+		height: 206px;
+		object-fit: cover;
+		background-position: center;
+		align-items: center;
+	}
+}
+
+.cubhouse__body4lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		text-align: justify;
+		max-width: 597px;
+		padding-top: 35px;
+		padding-bottom: 35px;
+		margin-left: 118px;
+
+	}
+
+}
+
+.bottomcubimageslg {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-direction: row;
+		margin-left: 118px;
+		padding-bottom: 16px;
+	}
+}
+
+.cubimg3lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-wrap: wrap;
+		padding: 10px;
+		width: 290px;
+		height: 202px;
+		object-fit: cover;
+		background-position: center;
+		align-items: center;
+	}
+}
+
+.bottomplantslg {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-bottom: 32px;
+}
+
+.cubimg4lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-wrap: wrap;
+		padding: 10px;
+		width: 833px;
+		height: 252px;
+		margin-left: 10px;
+		object-fit: cover;
+		background-position: center;
+		align-items: center;
+	}
+}

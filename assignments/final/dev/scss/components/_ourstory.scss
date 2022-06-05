@@ -69,6 +69,15 @@
 	height: 160px;
 	object-fit: cover;
 	background-position: center;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: none;
+	}
+
 }
 
 .storyimg2 {
@@ -79,6 +88,14 @@
 	height: 160px;
 	object-fit: cover;
 	background-position: center;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: none;
+	}
 }
 
 
@@ -91,6 +108,10 @@
 		display: flex;
 		flex-direction: column;
 		align-items: flex-start;
+	}
+
+	@include lg {
+		display: none;
 	}
 
 }
@@ -106,6 +127,10 @@
 		margin-left: 425px;
 		margin-top: 50px;
 	}
+
+	@include lg {
+		display: none;
+	}
 }
 
 .ourstory__body2md {
@@ -119,6 +144,10 @@
 		margin-left: 118px;
 		margin-top: 40px;
 	}
+
+	@include lg {
+		display: none;
+	}
 }
 
 .ourstory__body3md {
@@ -131,6 +160,10 @@
 		width: 598px;
 		margin-left: 118px;
 		margin-top: 40px;
+	}
+
+	@include lg {
+		display: none;
 	}
 }
 
@@ -147,6 +180,10 @@
 		margin-left: 319px;
 		background-color: $sunglow;
 	}
+
+	@include lg {
+		display: none;
+	}
 }
 
 .ourstory__body5md {
@@ -158,6 +195,10 @@
 		text-align: justify;
 		max-width: 598px;
 		margin-left: 118px;
+	}
+
+	@include lg {
+		display: none;
 	}
 }
 
@@ -171,6 +212,10 @@
 		max-width: 598px;
 		margin-left: 118px;
 		margin-bottom: 60px;
+	}
+
+	@include lg {
+		display: none;
 	}
 }
 
@@ -187,6 +232,10 @@
 		height: 248px;
 		object-fit: cover;
 		background-position: center;
+	}
+
+	@include lg {
+		display: none;
 	}
 }
 
@@ -205,6 +254,10 @@
 		object-fit: cover;
 		background-position: center;
 	}
+
+	@include lg {
+		display: none;
+	}
 }
 
 .threerowmd {
@@ -213,6 +266,10 @@
 	@include md {
 		display: flex;
 		flex-direction: row;
+	}
+
+	@include lg {
+		display: none;
 	}
 }
 
@@ -231,5 +288,201 @@
 		height: 180px;
 		object-fit: cover;
 		background-position: center;
+	}
+
+	@include lg {
+		display: none;
+	}
+}
+
+
+.allstorylg {
+
+	display: none;
+
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+}
+
+.ourstory__body1lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		text-align: left;
+		width: 524px;
+		margin-left: 648px;
+		margin-top: 200px;
+	}
+}
+
+.twofirstimglg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		margin-left: 108px;
+		margin-top: -415px;
+	}
+}
+
+
+
+.ourstory__body2lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include md {
+		display: flex;
+		flex-direction: column;
+		text-align: left;
+		width: 524px;
+		margin-left: 648px;
+		margin-top: 16px;
+	}
+}
+
+.ourstory__body3lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		text-align: left;
+		width: 845px;
+		margin-left: 118px;
+		margin-top: 40px;
+		margin-bottom: 30px;
+	}
+}
+
+.ourstory__body4lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		text-align: left;
+		width: 524px;
+		margin-top: 50px;
+		margin-bottom: 60px;
+		margin-left: 648px;
+		background-color: $sunglow;
+	}
+}
+
+.ourstory__body5lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		text-align: justify;
+		max-width: 848px;
+		margin-left: 118px;
+		margin-bottom: 50px;
+	}
+}
+
+.ourstory__body6lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: column;
+		text-align: left;
+		max-width: 632px;
+		margin-bottom: 50px;
+		margin-left: 322px;
+	}
+}
+
+.storyimg1lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-wrap: wrap;
+		padding: 8px;
+		width: 416px;
+		height: 248px;
+		object-fit: cover;
+		background-position: center;
+	}
+}
+
+.storyimg2lg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-wrap: wrap;
+		padding: 5px;
+		margin-left: 15px;
+		width: 308px;
+		height: 160px;
+		object-fit: cover;
+		background-position: center;
+	}
+}
+
+.threerowlg {
+	display: none;
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: flex;
+		flex-direction: row;
+		margin-left: 160px;
+		margin-bottom: 50px;
 	}
 }
