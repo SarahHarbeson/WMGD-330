@@ -1589,7 +1589,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center; }
   @media (min-width: 768px) {
     .allstory {
-      display: flex; } }
+      display: none; } }
 .ourstory__body1 {
   display: flex;
   flex-direction: column;
@@ -1649,6 +1649,122 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: cover;
   background-position: center; }
 
+.allstorymd {
+  display: none; }
+  @media (min-width: 768px) {
+    .allstorymd {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start; } }
+.ourstory__body1md {
+  display: none; }
+  @media (min-width: 768px) {
+    .ourstory__body1md {
+      display: flex;
+      flex-direction: column;
+      text-align: justify;
+      width: 291px;
+      margin-left: 425px;
+      margin-top: 50px; } }
+.ourstory__body2md {
+  display: none; }
+  @media (min-width: 768px) {
+    .ourstory__body2md {
+      display: flex;
+      flex-direction: column;
+      text-align: justify;
+      width: 291px;
+      margin-left: 118px;
+      margin-top: 40px; } }
+.ourstory__body3md {
+  display: none; }
+  @media (min-width: 768px) {
+    .ourstory__body3md {
+      display: flex;
+      flex-direction: column;
+      text-align: justify;
+      width: 598px;
+      margin-left: 118px;
+      margin-top: 40px; } }
+.ourstory__body4md {
+  display: none; }
+  @media (min-width: 768px) {
+    .ourstory__body4md {
+      display: flex;
+      flex-direction: column;
+      text-align: justify;
+      width: 393px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      margin-left: 319px;
+      background-color: #FDC430; } }
+.ourstory__body5md {
+  display: none; }
+  @media (min-width: 768px) {
+    .ourstory__body5md {
+      display: flex;
+      flex-direction: column;
+      text-align: justify;
+      max-width: 598px;
+      margin-left: 118px; } }
+.ourstory__body6md {
+  display: none; }
+  @media (min-width: 768px) {
+    .ourstory__body6md {
+      display: flex;
+      flex-direction: column;
+      text-align: justify;
+      max-width: 598px;
+      margin-left: 118px;
+      margin-bottom: 60px; } }
+.storyimg1md {
+  display: none; }
+  @media (min-width: 768px) {
+    .storyimg1md {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 8px;
+      margin-left: 88px;
+      margin-top: -235px;
+      width: 298px;
+      height: 248px;
+      object-fit: cover;
+      background-position: center; } }
+.storyimg2md {
+  display: none; }
+  @media (min-width: 768px) {
+    .storyimg2md {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      padding: 5px;
+      margin-left: 480px;
+      margin-top: -245px;
+      width: 291px;
+      height: 248px;
+      object-fit: cover;
+      background-position: center; } }
+.threerowmd {
+  display: none; }
+  @media (min-width: 768px) {
+    .threerowmd {
+      display: flex;
+      flex-direction: row; } }
+.storyimg3md {
+  display: none; }
+  @media (min-width: 768px) {
+    .storyimg3md {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      padding: 20px;
+      margin-left: 45px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      width: 220px;
+      height: 180px;
+      object-fit: cover;
+      background-position: center; } }
 .cubhouse_hero {
   background-image: url("../img/cubhouse/cubhouseHeader1.png");
   background-position: right;

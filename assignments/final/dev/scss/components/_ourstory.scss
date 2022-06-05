@@ -1,82 +1,235 @@
-.allstory{
+.allstory {
 
-	display: flex; 
-	flex-direction: column; 
-	align-items: center; 
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 
 
-	@include md{
-		display: flex; 
+	@include md {
+		display: none;
 	}
 
 }
 
 .ourstory__body1 {
-	display: flex; 
-	flex-direction: column; 
-	text-align: justify; 
-	max-width: 296px; 
-	padding-top: 52px; 
-	padding-bottom: 52px; 
+	display: flex;
+	flex-direction: column;
+	text-align: justify;
+	max-width: 296px;
+	padding-top: 52px;
+	padding-bottom: 52px;
 
-	@include md{
-		display: flex; 
-		max-width: 291px; 
+	@include md {
+		display: flex;
+		max-width: 291px;
 
 	}
 }
 
 .ourstory__body2 {
-	display: flex; 
-	flex-direction: column; 
-	text-align: justify; 
-	max-width: 296px; 
+	display: flex;
+	flex-direction: column;
+	text-align: justify;
+	max-width: 296px;
 }
 
 .ourstory__body3 {
-	display: flex; 
-	flex-direction: column; 
-	text-align: justify; 
-	max-width: 296px; 
+	display: flex;
+	flex-direction: column;
+	text-align: justify;
+	max-width: 296px;
 }
 
 .ourstory__body4 {
-	display: flex; 
-	flex-direction: column; 
-	text-align: justify; 
-	max-width: 296px; 
-	background-color: $sunglow; 
+	display: flex;
+	flex-direction: column;
+	text-align: justify;
+	max-width: 296px;
+	background-color: $sunglow;
 }
 
 .ourstory__body5 {
-	display: flex; 
-	flex-direction: column; 
-	text-align: justify; 
-	max-width: 296px; 
+	display: flex;
+	flex-direction: column;
+	text-align: justify;
+	max-width: 296px;
 }
 
 .ourstory__body6 {
-	display: flex; 
-	flex-direction: column; 
-	text-align: justify; 
-	max-width: 296px; 
+	display: flex;
+	flex-direction: column;
+	text-align: justify;
+	max-width: 296px;
 }
 
 .storyimg1 {
-	flex-wrap: wrap; 
-	padding: 8px; 
-	width: 179px; 
-	height: 160px; 
-	object-fit: cover; 
-	background-position: center;   
+	flex-wrap: wrap;
+	padding: 8px;
+	width: 179px;
+	height: 160px;
+	object-fit: cover;
+	background-position: center;
 }
 
 .storyimg2 {
-	flex-wrap: wrap; 
-	flex-direction: row; 
-	padding: 5px; 
-	width: 179px; 
-	height: 160px; 
-	object-fit: cover; 
-	background-position: center;   
+	flex-wrap: wrap;
+	flex-direction: row;
+	padding: 5px;
+	width: 179px;
+	height: 160px;
+	object-fit: cover;
+	background-position: center;
+}
+
+
+.allstorymd {
+
+	display: none;
+
+
+	@include md {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+}
+
+.ourstory__body1md {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-direction: column;
+		text-align: justify;
+		width: 291px;
+		margin-left: 425px;
+		margin-top: 50px;
+	}
+}
+
+.ourstory__body2md {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-direction: column;
+		text-align: justify;
+		width: 291px;
+		margin-left: 118px;
+		margin-top: 40px;
+	}
+}
+
+.ourstory__body3md {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-direction: column;
+		text-align: justify;
+		width: 598px;
+		margin-left: 118px;
+		margin-top: 40px;
+	}
+}
+
+.ourstory__body4md {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-direction: column;
+		text-align: justify;
+		width: 393px;
+		margin-top: 50px;
+		margin-bottom: 50px;
+		margin-left: 319px;
+		background-color: $sunglow;
+	}
+}
+
+.ourstory__body5md {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-direction: column;
+		text-align: justify;
+		max-width: 598px;
+		margin-left: 118px;
+	}
+}
+
+.ourstory__body6md {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-direction: column;
+		text-align: justify;
+		max-width: 598px;
+		margin-left: 118px;
+		margin-bottom: 60px;
+	}
+}
+
+.storyimg1md {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-wrap: wrap;
+		padding: 8px;
+		margin-left: 88px;
+		margin-top: -235px;
+		width: 298px;
+		height: 248px;
+		object-fit: cover;
+		background-position: center;
+	}
+}
+
+.storyimg2md {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: row;
+		padding: 5px;
+		margin-left: 480px;
+		margin-top: -245px;
+		width: 291px;
+		height: 248px;
+		object-fit: cover;
+		background-position: center;
+	}
+}
+
+.threerowmd {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-direction: row;
+	}
+}
+
+.storyimg3md {
+	display: none;
+
+	@include md {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: row;
+		padding: 20px;
+		margin-left: 45px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		width: 220px;
+		height: 180px;
+		object-fit: cover;
+		background-position: center;
+	}
 }
