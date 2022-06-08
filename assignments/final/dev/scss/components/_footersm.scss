@@ -1,0 +1,372 @@
+.footersm {
+    color: $white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: $teal;
+    height: 271.5px;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.footer__contact-block1sm {
+    background-color: $darkest-teal;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 192px;
+    text-align: right;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__contact-row {
+    display: flex;
+    justify-content: end;
+}
+
+.social_mediasm {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 15px;
+    padding-top: 7px;
+    //width: 170px;  
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.light__iconssm {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: left;
+    flex-wrap: wrap;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.fb__iconlightsm {
+    display: flex;
+    max-height: 26px;
+    margin: 8px;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.t__iconlightsm {
+
+    display: flex;
+    max-height: 26px;
+    margin: 8px;
+
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.insta__iconlightsm {
+    display: flex;
+    max-height: 26px;
+    margin: 8px;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.ch__iconlightsm {
+    display: flex;
+    max-height: 26px;
+    margin: 8px;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__headersm {
+    display: flex;
+    padding-top: 15px;
+    margin-bottom: 8px;
+    margin-left: 315px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: $white;
+    text-align: right;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__contentsm {
+    background-color: $teal;
+    height: 272px;
+    width: 50%;
+    align-items: flex-end;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__contact-contentsm {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    width: 200px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 17px;
+    margin-left: 205px;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.footer-column-2sm {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+    border: 5px solid $teal-two;
+    border-radius: 5px;
+    width: 227.5px;
+    margin-left: -20px;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer-column-2__inputsm {
+    display: flex;
+    font-size: 14px;
+    background: $white;
+    padding: 11px;
+    width: 150px;
+    height: 30px;
+    border-radius: 0px;
+    //margin-right: 10px; 
+    //border: 10px solid $teal-two;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.footer-column-2__buttonsm {
+    display: flex;
+    background-color: $sunglow;
+    font-size: 11px;
+    //line-height: 17px;
+    outline: 0;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 30px;
+    text-align: center;
+    padding-top: 7px;
+    border: 2px solid $teal-two;
+    border-radius: 0px;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer_imagesm {
+    display: flex;
+    height: 80px;
+    margin-top: 15px;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__need-helpsm {
+    display: flex;
+    background-color: $teal-two;
+    text-align: left;
+    height: 132px;
+    width: 191px;
+    padding: 50px;
+    flex-direction: column;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__subheadingsm1 {
+    display: flex;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: -34px;
+    margin-left: -25px;
+    padding-bottom: 5px;
+    font-weight: 400;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__subheadingsm2 {
+    display: flex;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 20px;
+    margin-left: 25px;
+    font-weight: 400;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__contact-body-textsm {
+    display: flex;
+    font-size: 10px;
+    line-height: 0px;
+    margin-left: -25px;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.social-iconsm {
+    text-decoration: none;
+    color: black;
+}
+
+.secondsidesm {
+    display: flex;
+    flex-direction: column;
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footerbluesm {
+    display: flex;
+    flex-direction: row;
+
+
+    @include md {
+        display: none;
+    }
+
+    @include lg {
+        display: none;
+    }
+}

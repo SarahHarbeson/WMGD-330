@@ -1,0 +1,27 @@
+.row2md {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.footer-bottommd {
+    display: flex;
+    background-color: $sunglow;
+    line-height: 17px;
+    font-size: 10px;
+    flex-basis: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+
+    @include lg {
+        display: none;
+    }
+}

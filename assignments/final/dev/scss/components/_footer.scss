@@ -1,11 +1,10 @@
 .footer {
 	color: $white;
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	width: 100%;
-	background-color: $teal;
-	height: 272px;
+	display: none;
+
+	@include md {
+		display: none;
+	}
 
 	@include lg {
 		color: $white;

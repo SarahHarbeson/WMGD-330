@@ -1,0 +1,376 @@
+.footermd {
+    color: $white;
+    display: none;
+
+    @include md {
+        color: $white;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 100%;
+        height: 272px;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.footer__contact-block1md {
+    display: none;
+
+    @include md {
+        background-color: $darkest-teal;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+        text-align: right;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__contact-row {
+    display: flex;
+    justify-content: end;
+}
+
+.social_mediamd {
+    display: none;
+
+    @include md {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        padding-left: 15px;
+        padding-top: 7px;
+        //width: 170px;  
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.light__iconsmd {
+    display: none;
+
+    @include md {
+        display: flex;
+        flex-direction: row;
+        justify-content: left;
+        align-items: left;
+        flex-wrap: wrap;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.fb__iconlightmd {
+    display: none;
+
+
+    @include md {
+        display: flex;
+        max-height: 34px;
+        margin: 10px;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.t__iconlightmd {
+
+    display: none;
+
+
+    @include md {
+        display: flex;
+        max-height: 34px;
+        margin: 10px;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.insta__iconlightmd {
+
+    display: none;
+
+
+    @include md {
+        display: flex;
+        max-height: 34px;
+        margin: 10px;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.ch__iconlightmd {
+
+    display: none;
+
+
+    @include md {
+        display: flex;
+        max-height: 34px;
+        margin: 10px;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__headermd {
+    display: none;
+
+    @include md {
+        display: flex;
+        padding-top: 20px;
+        margin-bottom: 8px;
+        margin-left: 275px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: $white;
+        text-align: right;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__contentmd {
+    display: none;
+
+    @include md {
+        background-color: $teal;
+        height: 272px;
+        width: 70%;
+        align-items: flex-end;
+        text-align: right;
+        display: flex;
+        flex-direction: column;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__contact-contentmd {
+    display: none;
+
+    @include md {
+        display: flex;
+        flex-direction: column;
+        text-align: right;
+        width: 300px;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 17px;
+        margin-left: 65px;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.footer-column-2md {
+    display: none;
+
+    @include md {
+        display: flex;
+        justify-content: right;
+        align-items: right;
+        text-align: right;
+        border: 5px solid $teal-two;
+        border-radius: 5px;
+        width: 290px;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer-column-2__inputmd {
+    display: none;
+
+    @include md {
+        display: flex;
+        font-size: 14px;
+        background: $white;
+        padding: 11px;
+        width: 200px;
+        height: 30px;
+        border-radius: 0px;
+        //margin-right: 10px; 
+        //border: 10px solid $teal-two;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.footer-column-2__buttonmd {
+    display: none;
+
+    @include md {
+        display: flex;
+        background-color: $sunglow;
+        font-size: 14px;
+        //line-height: 17px;
+        outline: 0;
+        border-radius: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        height: 30px;
+        text-align: center;
+        padding-top: 5px;
+        border: 2px solid $teal-two;
+        border-radius: 0px;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer_imagemd {
+    display: none;
+
+    @include md {
+        display: flex;
+        height: 80px;
+        margin-top: 15px;
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__need-helpmd {
+    display: none;
+
+    @include md {
+        display: flex;
+        background-color: $teal-two;
+        text-align: left;
+        height: 132px;
+        width: 306px;
+        padding: 50px;
+        flex-direction: column;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__subheadingmd1 {
+    display: none;
+
+    @include md {
+        display: flex;
+        font-size: 14px;
+        line-height: 17px;
+        margin-top: -30px;
+        margin-left: -25px;
+        padding-bottom: 5px;
+        font-weight: 400;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__subheadingmd2 {
+    display: none;
+
+    @include md {
+        display: flex;
+        font-size: 14px;
+        line-height: 17px;
+        margin-top: 20px;
+        margin-left: 25px;
+        font-weight: 400;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footer__contact-body-textmd {
+    display: none;
+
+    @include md {
+        display: flex;
+        font-size: 10px;
+        line-height: 0px;
+        margin-left: -25px;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+
+.social-iconmd {
+    text-decoration: none;
+    color: black;
+}
+
+.secondsidemd {
+    display: none;
+
+    @include md {
+        display: flex;
+        flex-direction: column;
+    }
+
+    @include lg {
+        display: none;
+    }
+}
+
+.footerbluemd {
+    display: none;
+
+    @include md {
+        display: flex;
+        flex-direction: row;
+        ;
+    }
+
+    @include lg {
+        display: none;
+    }
+}

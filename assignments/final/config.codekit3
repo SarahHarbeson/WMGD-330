@@ -1231,6 +1231,46 @@
       "oAP" : "\/dev\/components\/footer.html",
       "oF" : 0
     },
+    "\/dev\/components\/footermd.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/footermd.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/footerpart2.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/footerpart2.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/footerpart2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/footerpart2.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/footersm.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/footersm.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/footersm.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/footersm.html",
+      "oF" : 0
+    },
     "\/dev\/components\/header.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1461,6 +1501,51 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_footer.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_footermd.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_footermd.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_footerpart2.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_footerpart2.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_footersm.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_footersm.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
