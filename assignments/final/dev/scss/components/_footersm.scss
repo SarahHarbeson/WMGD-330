@@ -22,7 +22,7 @@
     display: flex;
     flex-direction: column;
     height: 100%;
-    width: 192px;
+    width: 111.25%;
     text-align: right;
 
     @include md {
@@ -73,10 +73,16 @@
 }
 
 
+.light__iconssmpart2 {
+    display: block;
+}
+
+
 .fb__iconlightsm {
     display: flex;
     max-height: 26px;
-    margin: 8px;
+    margin: 5px;
+    margin-bottom: 10px;
 
     @include md {
         display: none;
@@ -91,8 +97,7 @@
 
     display: flex;
     max-height: 26px;
-    margin: 8px;
-
+    margin: 5px;
 
     @include md {
         display: none;
@@ -106,7 +111,8 @@
 .insta__iconlightsm {
     display: flex;
     max-height: 26px;
-    margin: 8px;
+    margin: 5px;
+    margin-bottom: 10px;
 
     @include md {
         display: none;
@@ -120,7 +126,7 @@
 .ch__iconlightsm {
     display: flex;
     max-height: 26px;
-    margin: 8px;
+    margin: 5px;
 
     @include md {
         display: none;
@@ -155,7 +161,7 @@
 .footer__contentsm {
     background-color: $teal;
     height: 272px;
-    width: 50%;
+    width: 60%;
     align-items: flex-end;
     text-align: right;
     display: flex;
@@ -275,7 +281,7 @@
     background-color: $teal-two;
     text-align: left;
     height: 132px;
-    width: 191px;
+    width: 111.25%;
     padding: 50px;
     flex-direction: column;
 
